@@ -4644,41 +4644,56 @@
    "id": "5OpiUD3qtY8",
    "title": "Geography Now! Antigua and Barbuda",
    "order": 7,
-   "status": "pending",
+   "status": "done",
    "duration": 437.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2014-12-18",
+   "note": "安提瓜和巴布达.md",
+   "done": "2026-11-01"
   },
   "4QSmRYQBfN4": {
    "id": "4QSmRYQBfN4",
    "title": "Geography Now! Angola",
    "order": 6,
-   "status": "pending",
+   "status": "done",
    "duration": 487.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2014-11-27",
+   "note": "安哥拉.md",
+   "done": "2026-11-01"
   },
   "POOvmkhlUD4": {
    "id": "POOvmkhlUD4",
    "title": "Geography Now! Andorra",
    "order": 5,
-   "status": "pending",
+   "status": "done",
    "duration": 402.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2014-11-12",
+   "note": "安道尔.md",
+   "done": "2026-11-01"
   },
   "YLY7oB_fttM": {
    "id": "YLY7oB_fttM",
    "title": "Geography Now! Algeria",
    "order": 4,
-   "status": "pending",
+   "status": "done",
    "duration": 459.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2014-10-30",
+   "note": "阿尔及利亚.md",
+   "done": "2026-11-01"
   },
   "9WZ06pTuqV0": {
    "id": "9WZ06pTuqV0",
    "title": "Geography Now! Albania",
    "order": 3,
-   "status": "pending",
+   "status": "done",
    "duration": 448.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2014-10-21",
+   "note": "阿尔巴尼亚.md",
+   "done": "2026-11-01"
   },
   "ipVw772hCrM": {
    "id": "ipVw772hCrM",
