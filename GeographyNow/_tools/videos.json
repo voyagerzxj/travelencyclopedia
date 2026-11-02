@@ -1012,81 +1012,111 @@
    "id": "BzMYQIo-0NA",
    "title": "Geography Now! TURKEY (Türkiye)",
    "order": 461,
-   "status": "pending",
+   "status": "done",
    "duration": 2130.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-09-03",
+   "note": "土耳其.md",
+   "done": "2026-11-02"
   },
   "rzqAwIszH68": {
    "id": "rzqAwIszH68",
    "title": "Geogra-FEED Now! PALAK PANEER 🇮🇳",
    "order": 460,
-   "status": "pending",
+   "status": "done",
    "duration": 551.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-08-13",
+   "note": "专题与其他/460_菠菜奶酪咖喱.md",
+   "done": "2026-11-02"
   },
   "74-nUcYKUz8": {
    "id": "74-nUcYKUz8",
    "title": "FLAG/ FAN DAY TUNISIA! (Geography now)",
    "order": 459,
-   "status": "pending",
+   "status": "done",
    "duration": 776.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-08-08",
+   "note": "国旗粉丝日/突尼斯_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "iBotvIvlCHQ": {
    "id": "iBotvIvlCHQ",
    "title": "Geography Now! TUNISIA",
    "order": 458,
-   "status": "pending",
+   "status": "done",
    "duration": 1878.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-08-04",
+   "note": "突尼斯.md",
+   "done": "2026-11-02"
   },
   "rmxKF_MHxmM": {
    "id": "rmxKF_MHxmM",
    "title": "Youtube- Why did you AGE-RESTRICT the Finland episode?",
    "order": 457,
-   "status": "pending",
+   "status": "done",
    "duration": 270.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-07-30",
+   "note": "专题与其他/457_芬兰集被年龄限制.md",
+   "done": "2026-11-02"
   },
   "8dkFGa6uutc": {
    "id": "8dkFGa6uutc",
    "title": "So Geography Now has 3 Million subscribers...NOW!",
    "order": 456,
-   "status": "pending",
+   "status": "done",
    "duration": 893.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-07-18",
+   "note": "专题与其他/456_三百万订阅.md",
+   "done": "2026-11-02"
   },
   "IOuIUkcPe_E": {
    "id": "IOuIUkcPe_E",
    "title": "TRINIDAD & TOBAGO FLAG/ FAN DAY! (Geography Now!)",
    "order": 455,
-   "status": "pending",
+   "status": "done",
    "duration": 803.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-07-09",
+   "note": "国旗粉丝日/特立尼达和多巴哥_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "f_F-EYUd4lk": {
    "id": "f_F-EYUd4lk",
    "title": "Geography Now! TRINIDAD and TOBAGO",
    "order": 454,
-   "status": "pending",
+   "status": "done",
    "duration": 1873.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-07-06",
+   "note": "特立尼达和多巴哥.md",
+   "done": "2026-11-02"
   },
   "TS6mBMRvHRI": {
    "id": "TS6mBMRvHRI",
    "title": "FLAG/ FAN DAY! TONGA! (Geography Now!)",
    "order": 453,
-   "status": "pending",
+   "status": "done",
    "duration": 698.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-06-12",
+   "note": "国旗粉丝日/汤加_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "6QrxqHiLPf8": {
    "id": "6QrxqHiLPf8",
    "title": "Geography Now! TONGA",
    "order": 452,
-   "status": "pending",
+   "status": "done",
    "duration": 1704.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-06-09",
+   "note": "汤加.md",
+   "done": "2026-11-02"
   },
   "GAoK4XjssrM": {
    "id": "GAoK4XjssrM",
