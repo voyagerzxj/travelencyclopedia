@@ -1812,81 +1812,110 @@
    "id": "Hn8XXPl1vjU",
    "title": "Geography Now! POLAND",
    "order": 361,
-   "status": "pending",
+   "status": "done",
    "duration": 1150.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-10-30",
+   "note": "波兰.md",
+   "done": "2026-11-02"
   },
   "Ga6N2X-iNvg": {
    "id": "Ga6N2X-iNvg",
    "title": "Flag/ Fan Friday PHILIPPINES (Geography Now!)",
    "order": 360,
-   "status": "pending",
+   "status": "done",
    "duration": 921.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-10-04",
+   "note": "国旗粉丝日/菲律宾_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "LVFvRNRTEd4": {
    "id": "LVFvRNRTEd4",
    "title": "Geography Now! Philippines",
    "order": 359,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1182.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-10-02",
+   "skip_reason": "无字幕"
   },
   "0qKRinI-alU": {
    "id": "0qKRinI-alU",
    "title": "Flag / Fan Friday PERU (Geography Now!)",
    "order": 358,
-   "status": "pending",
+   "status": "done",
    "duration": 890.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-09-27",
+   "note": "国旗粉丝日/秘鲁_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "x0XCXGXGZMs": {
    "id": "x0XCXGXGZMs",
    "title": "Geography Now! PERU",
    "order": 357,
-   "status": "pending",
+   "status": "done",
    "duration": 1109.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-09-25",
+   "note": "秘鲁.md",
+   "done": "2026-11-02"
   },
   "xwg1ne9b97I": {
    "id": "xwg1ne9b97I",
    "title": "Flag/ Fan Friday PARAGUAY! (Geography Now!)",
    "order": 356,
-   "status": "pending",
+   "status": "done",
    "duration": 750.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-09-06",
+   "note": "国旗粉丝日/巴拉圭_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "8wbNEJjBa0k": {
    "id": "8wbNEJjBa0k",
    "title": "Geography Now! PARAGUAY",
    "order": 355,
-   "status": "pending",
+   "status": "done",
    "duration": 1088.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-09-04",
+   "note": "巴拉圭.md",
+   "done": "2026-11-02"
   },
   "isG2gEQM88Q": {
    "id": "isG2gEQM88Q",
    "title": "Flag/ Fan Friday PAPUA NEW GUINEA (Geography Now!)",
    "order": 354,
-   "status": "pending",
+   "status": "done",
    "duration": 832.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-08-30",
+   "note": "国旗粉丝日/巴布亚新几内亚_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "bushHvw__Mo": {
    "id": "bushHvw__Mo",
    "title": "Geography Now! PAPUA NEW GUINEA",
    "order": 353,
-   "status": "pending",
+   "status": "done",
    "duration": 1093.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-08-28",
+   "note": "巴布亚新几内亚.md",
+   "done": "2026-11-02"
   },
   "zv064hmXx1Y": {
    "id": "zv064hmXx1Y",
    "title": "Hong Kong Protests explained in 5 minutes (Geography Now!)",
    "order": 352,
-   "status": "pending",
+   "status": "done",
    "duration": 364.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-08-24",
+   "note": "专题与其他/352_香港抗议五分钟解说.md",
+   "done": "2026-11-02"
   },
   "ME0xuc7NMMA": {
    "id": "ME0xuc7NMMA",
