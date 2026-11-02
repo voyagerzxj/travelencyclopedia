@@ -1972,81 +1972,110 @@
    "id": "EGktIj8PJRg",
    "title": "REGIONS of FRANCE (Geography Now!)",
    "order": 341,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1056.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-06-09",
+   "skip_reason": "无字幕"
   },
   "47qIuIfUkOQ": {
    "id": "47qIuIfUkOQ",
    "title": "Fan/ Flag Friday NORWAY (Geography Now!)",
    "order": 340,
-   "status": "pending",
+   "status": "done",
    "duration": 767.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-05-24",
+   "note": "国旗粉丝日/挪威_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "bAGhXcYc0o4": {
    "id": "bAGhXcYc0o4",
    "title": "Geography Now! NORWAY",
    "order": 339,
-   "status": "pending",
+   "status": "done",
    "duration": 1152.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-05-22",
+   "note": "挪威.md",
+   "done": "2026-11-02"
   },
   "ED0b0E6xUL8": {
    "id": "ED0b0E6xUL8",
    "title": "The BALKANS Explained (Geography Now!)",
    "order": 338,
-   "status": "pending",
+   "status": "done",
    "duration": 820.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-05-07",
+   "note": "专题与其他/338_巴尔干解说.md",
+   "done": "2026-11-02"
   },
   "pivuya1RSFQ": {
    "id": "pivuya1RSFQ",
    "title": "Flag/ Fan Friday NIGERIA (Geography Now!)",
    "order": 337,
-   "status": "pending",
+   "status": "done",
    "duration": 776.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-05-03",
+   "note": "国旗粉丝日/尼日利亚_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "h4sWFJFge54": {
    "id": "h4sWFJFge54",
    "title": "Geography Now! NIGERIA",
    "order": 336,
-   "status": "pending",
+   "status": "done",
    "duration": 1121.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-05-01",
+   "note": "尼日利亚.md",
+   "done": "2026-11-02"
   },
   "m3fXzfeKxOo": {
    "id": "m3fXzfeKxOo",
    "title": "Flag/ Fan Friday NIGER (Geography Now!)",
    "order": 335,
-   "status": "pending",
+   "status": "done",
    "duration": 674.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-04-26",
+   "note": "国旗粉丝日/尼日尔_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "AHeq99pojLo": {
    "id": "AHeq99pojLo",
    "title": "Geography Now! NIGER",
    "order": 334,
-   "status": "pending",
+   "status": "done",
    "duration": 922.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-04-24",
+   "note": "尼日尔.md",
+   "done": "2026-11-02"
   },
   "Ni9JcHLea90": {
    "id": "Ni9JcHLea90",
    "title": "What is (the self declared state of) Somaliland?",
    "order": 333,
-   "status": "pending",
+   "status": "done",
    "duration": 402.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-04-22",
+   "note": "专题与其他/333_索马里兰是什么.md",
+   "done": "2026-11-02"
   },
   "QeJ_e6IxDbo": {
    "id": "QeJ_e6IxDbo",
    "title": "Flag/ Fan Friday NICARAGUA (Geography Now!)",
    "order": 332,
-   "status": "pending",
+   "status": "done",
    "duration": 684.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-04-12",
+   "note": "国旗粉丝日/尼加拉瓜_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "rr65vnslEZ0": {
    "id": "rr65vnslEZ0",
