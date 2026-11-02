@@ -772,81 +772,109 @@
    "id": "0oD4CiaKHGA",
    "title": "Provinces and territories of PAKISTAN explained!",
    "order": 491,
-   "status": "pending",
+   "status": "skipped",
    "duration": 805.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-08-21",
+   "skip_reason": "无字幕"
   },
   "wrINepmJC7c": {
    "id": "wrINepmJC7c",
    "title": "Geography GO! Equatorial Guinea 🇬🇶",
    "order": 490,
-   "status": "pending",
+   "status": "done",
    "duration": 923.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-07-25",
+   "note": "实地探访/490_赤道几内亚之旅.md",
+   "done": "2026-11-02"
   },
   "9I9S8MTJQYg": {
    "id": "9I9S8MTJQYg",
    "title": "FLAG/ FAN DAY UNITED STATES OF AMERICA (Geography Now!)",
    "order": 489,
-   "status": "pending",
+   "status": "done",
    "duration": 881.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-07-09",
+   "note": "国旗粉丝日/美国_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "Xp_TGilL9Sk": {
    "id": "Xp_TGilL9Sk",
    "title": "Geography Now! UNITED STATES OF AMERICA",
    "order": 488,
-   "status": "pending",
+   "status": "done",
    "duration": 3930.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-07-04",
+   "note": "美国.md",
+   "done": "2026-11-02"
   },
   "z57SX9fDDY4": {
    "id": "z57SX9fDDY4",
    "title": "Native American reservations explained",
    "order": 487,
-   "status": "pending",
+   "status": "skipped",
    "duration": 739.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-06-07",
+   "skip_reason": "无字幕"
   },
   "0VgnJzeS-rM": {
    "id": "0VgnJzeS-rM",
    "title": "Flag/ Fan day UNITED KINGDOM (Geography Now!)",
    "order": 486,
-   "status": "pending",
+   "status": "done",
    "duration": 715.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-06-02",
+   "note": "国旗粉丝日/英国_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "_uL3a3aMdMQ": {
    "id": "_uL3a3aMdMQ",
    "title": "Geography Now! UNITED KINGDOM",
    "order": 485,
-   "status": "pending",
+   "status": "done",
    "duration": 2845.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-05-30",
+   "note": "英国.md",
+   "done": "2026-11-02"
   },
   "4o4Twn7GpYE": {
    "id": "4o4Twn7GpYE",
    "title": "This place ALMOST RULED THE WORLD... so I went there (Samaná D.R.🇩🇴 )",
    "order": 484,
-   "status": "pending",
+   "status": "done",
    "duration": 882.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-05-23",
+   "note": "实地探访/484_多米尼加萨马纳半岛.md",
+   "done": "2026-11-02"
   },
   "2iPD4Po5yyU": {
    "id": "2iPD4Po5yyU",
    "title": "The ONLY PLACE ON EARTH you can cross 7 TIMEZONES in 2 hours....",
    "order": 483,
-   "status": "pending",
+   "status": "done",
    "duration": 1013.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-05-06",
+   "note": "实地探访/483_两小时穿越七个时区.md",
+   "done": "2026-11-02"
   },
   "hdZQQtr_KRw": {
    "id": "hdZQQtr_KRw",
    "title": "This small island has the CRAZIEST story....",
    "order": 482,
-   "status": "pending",
+   "status": "done",
    "duration": 411.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-04-28",
+   "note": "专题与其他/482_特罗姆兰岛的故事.md",
+   "done": "2026-11-02"
   },
   "eSiSH9BFDY8": {
    "id": "eSiSH9BFDY8",
