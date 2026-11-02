@@ -2212,81 +2212,111 @@
    "id": "yjEuvd43JJ8",
    "title": "I can now travel",
    "order": 311,
-   "status": "pending",
+   "status": "done",
    "duration": 338.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-12-25",
+   "note": "专题与其他/311_我现在可以旅行了.md",
+   "done": "2026-11-01"
   },
   "S85F7TFXYT0": {
    "id": "S85F7TFXYT0",
    "title": "Flag/ Fan Friday MOZAMBIQUE (Geography Now!)",
    "order": 310,
-   "status": "pending",
+   "status": "done",
    "duration": 719.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-12-21",
+   "note": "国旗粉丝日/莫桑比克_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "ZDo7RwB0Zdo": {
    "id": "ZDo7RwB0Zdo",
    "title": "Geography Now! MOZAMBIQUE",
    "order": 309,
-   "status": "pending",
+   "status": "done",
    "duration": 802.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-12-19",
+   "note": "莫桑比克.md",
+   "done": "2026-11-01"
   },
   "dNB7pUanzfA": {
    "id": "dNB7pUanzfA",
    "title": "Flag/ Fan Friday MOROCCO (Geography Now!)",
    "order": 308,
-   "status": "pending",
+   "status": "done",
    "duration": 695.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-12-14",
+   "note": "国旗粉丝日/摩洛哥_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "9iqBeJnsq8U": {
    "id": "9iqBeJnsq8U",
    "title": "Geography Now! MOROCCO",
    "order": 307,
-   "status": "pending",
+   "status": "done",
    "duration": 918.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-12-12",
+   "note": "摩洛哥.md",
+   "done": "2026-11-01"
   },
   "J9NLqHWJ0-s": {
    "id": "J9NLqHWJ0-s",
    "title": "Flag/ Fan Friday MONTENEGRO (Geography Now!)",
    "order": 306,
-   "status": "pending",
+   "status": "done",
    "duration": 692.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-12-07",
+   "note": "国旗粉丝日/黑山_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "uBjUOtlnm5Y": {
    "id": "uBjUOtlnm5Y",
    "title": "Geography Now! MONTENEGRO",
    "order": 305,
-   "status": "pending",
+   "status": "done",
    "duration": 722.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-12-05",
+   "note": "黑山.md",
+   "done": "2026-11-01"
   },
   "BzD3k25AIgw": {
    "id": "BzD3k25AIgw",
    "title": "CANADA- Provinces + Territories explained (Geography Now!)",
    "order": 304,
-   "status": "pending",
+   "status": "done",
    "duration": 817.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-11-24",
+   "note": "专题与其他/304_加拿大各省和地区.md",
+   "done": "2026-11-01"
   },
   "ZbH7LboqTxQ": {
    "id": "ZbH7LboqTxQ",
    "title": "Flag / Fan Friday MONGOLIA Geography Now!",
    "order": 303,
-   "status": "pending",
+   "status": "done",
    "duration": 643.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-11-16",
+   "note": "国旗粉丝日/蒙古_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "TpdGIPHPBwU": {
    "id": "TpdGIPHPBwU",
    "title": "Geography Now! MONGOLIA",
    "order": 302,
-   "status": "pending",
+   "status": "done",
    "duration": 878.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-11-14",
+   "note": "蒙古.md",
+   "done": "2026-11-01"
   },
   "Hqs6Rzndelo": {
    "id": "Hqs6Rzndelo",
