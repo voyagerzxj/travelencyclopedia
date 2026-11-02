@@ -3494,81 +3494,111 @@
    "id": "tzXARwHs-YQ",
    "title": "Geography Now! Ghana",
    "order": 151,
-   "status": "pending",
+   "status": "done",
    "duration": 773.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-22",
+   "note": "加纳.md",
+   "done": "2026-11-01"
   },
   "yBvyYixwuIk": {
    "id": "yBvyYixwuIk",
    "title": "Geography Now's Top 10 ISLAND destinations",
    "order": 150,
-   "status": "pending",
+   "status": "done",
    "duration": 547.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-17",
+   "note": "专题与其他/150_十大海岛目的地.md",
+   "done": "2026-11-01"
   },
   "EvuJ12upsmc": {
    "id": "EvuJ12upsmc",
    "title": "Geography GO! MEXICO! (Goegraphy Now)",
    "order": 149,
-   "status": "pending",
+   "status": "done",
    "duration": 720.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-16",
+   "note": "实地探访/149_墨西哥巴亚尔塔港.md",
+   "done": "2026-11-01"
   },
   "5pxbnuhzBME": {
    "id": "5pxbnuhzBME",
    "title": "Geography GO! New Zealand! (North island)",
    "order": 148,
-   "status": "pending",
+   "status": "done",
    "duration": 416.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-11",
+   "note": "实地探访/148_新西兰北岛.md",
+   "done": "2026-11-01"
   },
   "AOA3s_ddE7s": {
    "id": "AOA3s_ddE7s",
    "title": "Geography GO! New Zealand, South Island (Geography Now!)",
    "order": 147,
-   "status": "pending",
+   "status": "done",
    "duration": 617.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-09",
+   "note": "实地探访/147_新西兰南岛.md",
+   "done": "2026-11-01"
   },
   "LLjZKus17mk": {
    "id": "LLjZKus17mk",
    "title": "Geography GO! NEW ZEALAND (Auckland) Geography Now!",
    "order": 146,
-   "status": "pending",
+   "status": "done",
    "duration": 610.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-02",
+   "note": "实地探访/146_新西兰奥克兰.md",
+   "done": "2026-11-01"
   },
   "hZ59EgFFgkk": {
    "id": "hZ59EgFFgkk",
    "title": "GOING TO GREENLAND! + FAN MAIL (Geography Now!)",
    "order": 145,
-   "status": "pending",
+   "status": "done",
    "duration": 366.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-02-28",
+   "note": "专题与其他/145_要去格陵兰了与粉丝来信.md",
+   "done": "2026-11-01"
   },
   "G0198DyRR4g": {
    "id": "G0198DyRR4g",
    "title": "Geography GO! Singapore Last day (Geography Now!)",
    "order": 144,
-   "status": "pending",
+   "status": "done",
    "duration": 729.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-02-25",
+   "note": "实地探访/144_新加坡最后一天.md",
+   "done": "2026-11-01"
   },
   "ewrEhrGWKf4": {
    "id": "ewrEhrGWKf4",
    "title": "Geography GO! Malaysia / Johor Bahru (Geography Now)",
    "order": 143,
-   "status": "pending",
+   "status": "done",
    "duration": 634.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-02-23",
+   "note": "实地探访/143_马来西亚新山.md",
+   "done": "2026-11-01"
   },
   "GP2iOMKNpvg": {
    "id": "GP2iOMKNpvg",
    "title": "Geography GO! Singapore/ Indonesia, Batam city (Geography Now)",
    "order": 142,
-   "status": "pending",
+   "status": "done",
    "duration": 489.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-02-18",
+   "note": "实地探访/142_新加坡与印尼巴淡岛.md",
+   "done": "2026-11-01"
   },
   "_GWjNO2X3qw": {
    "id": "_GWjNO2X3qw",
