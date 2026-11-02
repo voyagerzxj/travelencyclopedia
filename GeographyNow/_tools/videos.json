@@ -4534,42 +4534,57 @@
    "id": "CsQYZoPlHcM",
    "title": "Geography Now! Bandiaterra",
    "order": 21,
-   "status": "pending",
+   "status": "done",
    "duration": 525.0,
    "found": "2026-11-01",
-   "cat": "other"
+   "cat": "other",
+   "upload_date": "2015-04-01",
+   "note": "专题与其他/021_愚人节虚构国家Bandiaterra.md",
+   "done": "2026-11-01"
   },
   "Ol0i9-qvkjU": {
    "id": "Ol0i9-qvkjU",
    "title": "First Q&A video!",
    "order": 20,
-   "status": "pending",
+   "status": "done",
    "duration": 380.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-03-23",
+   "note": "专题与其他/020_第一次问答.md",
+   "done": "2026-11-01"
   },
   "J9aV4Zn8JJE": {
    "id": "J9aV4Zn8JJE",
    "title": "Geography Now! The Bahamas",
    "order": 19,
-   "status": "pending",
+   "status": "done",
    "duration": 640.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-03-17",
+   "note": "巴哈马.md",
+   "done": "2026-11-01"
   },
   "K9oOiV04MiU": {
    "id": "K9oOiV04MiU",
    "title": "Become a Patron! Help me pay rent!",
    "order": 18,
-   "status": "pending",
+   "status": "done",
    "duration": 218.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-03-13",
+   "note": "专题与其他/018_成为赞助人.md",
+   "done": "2026-11-01"
   },
   "DqVPVRmRIU8": {
    "id": "DqVPVRmRIU8",
    "title": "Geography Now! Azerbaijan",
    "order": 17,
-   "status": "pending",
+   "status": "done",
    "duration": 579.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-02-27",
+   "note": "阿塞拜疆.md",
+   "done": "2026-11-01"
   },
   "262kNHCVvF8": {
    "id": "262kNHCVvF8",
