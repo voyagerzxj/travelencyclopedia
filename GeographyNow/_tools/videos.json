@@ -2052,81 +2052,111 @@
    "id": "rr65vnslEZ0",
    "title": "Geography Now! NICARAGUA",
    "order": 331,
-   "status": "pending",
+   "status": "done",
    "duration": 946.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-04-10",
+   "note": "尼加拉瓜.md",
+   "done": "2026-11-02"
   },
   "Oz7boqoIQOU": {
    "id": "Oz7boqoIQOU",
    "title": "Flag / Fan Friday NEW ZEALAND (Geography Now!)",
    "order": 330,
-   "status": "pending",
+   "status": "done",
    "duration": 897.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-04-05",
+   "note": "国旗粉丝日/新西兰_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "FtZaaKFi7RM": {
    "id": "FtZaaKFi7RM",
    "title": "Geography Now! NEW ZEALAND (AOTEAROA)",
    "order": 329,
-   "status": "pending",
+   "status": "done",
    "duration": 1046.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-04-03",
+   "note": "新西兰.md",
+   "done": "2026-11-02"
   },
   "RUWcw8rSjZU": {
    "id": "RUWcw8rSjZU",
    "title": "Geography Now! PATCH AMBERDASH / DATCSH",
    "order": 328,
-   "status": "pending",
+   "status": "done",
    "duration": 703.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-04-01",
+   "note": "专题与其他/328_愚人节虚构国家PatchAmberdash.md",
+   "done": "2026-11-02"
   },
   "cc3qclOhxFA": {
    "id": "cc3qclOhxFA",
    "title": "Flag/ Fan Friday NETHERLANDS (Geography Now!)",
    "order": 327,
-   "status": "pending",
+   "status": "done",
    "duration": 739.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-03-01",
+   "note": "国旗粉丝日/荷兰_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "f4TmQEZzsec": {
    "id": "f4TmQEZzsec",
    "title": "Geography Now! NETHERLANDS",
    "order": 326,
-   "status": "pending",
+   "status": "done",
    "duration": 1107.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-02-27",
+   "note": "荷兰.md",
+   "done": "2026-11-02"
   },
   "Dz7rlXJgcMk": {
    "id": "Dz7rlXJgcMk",
    "title": "GEOGRABEE WINNER! +Meetup tour! (Geography Now!)",
    "order": 325,
-   "status": "pending",
+   "status": "done",
    "duration": 267.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-02-18",
+   "note": "专题与其他/325_地理蜂获胜者与见面会.md",
+   "done": "2026-11-02"
   },
   "-RQ0Ar7_LmE": {
    "id": "-RQ0Ar7_LmE",
    "title": "The Geography of METAL around the world  (Geography Now)",
    "order": 324,
-   "status": "pending",
+   "status": "done",
    "duration": 808.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-02-16",
+   "note": "专题与其他/324_世界各地的金属乐.md",
+   "done": "2026-11-02"
   },
   "gdsa1gBOTDk": {
    "id": "gdsa1gBOTDk",
    "title": "STATES (Bundesländer) of GERMANY EXPLAINED (Geography Now!)",
    "order": 323,
-   "status": "pending",
+   "status": "done",
    "duration": 920.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-02-13",
+   "note": "专题与其他/323_德国各州.md",
+   "done": "2026-11-02"
   },
   "KSMMWzRomhI": {
    "id": "KSMMWzRomhI",
    "title": "Flag / Fan Friday NEPAL (Geography Now!)",
    "order": 322,
-   "status": "pending",
+   "status": "done",
    "duration": 712.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-02-08",
+   "note": "国旗粉丝日/尼泊尔_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "8gTkgfOMkTU": {
    "id": "8gTkgfOMkTU",
@@ -5660,5 +5690,5 @@
    "done": "2026-11-01"
   }
  },
- "updated": "2026-11-01"
+ "updated": "2026-11-02"
 }
