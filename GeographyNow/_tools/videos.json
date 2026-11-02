@@ -3654,81 +3654,111 @@
    "id": "KCdwJAeJ69s",
    "title": "Geography Now! Gabon",
    "order": 131,
-   "status": "pending",
+   "status": "done",
    "duration": 615.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-01-18",
+   "note": "加蓬.md",
+   "done": "2026-11-01"
   },
   "udV8QY1HZRY": {
    "id": "udV8QY1HZRY",
    "title": "What was Saudi Arabia like? (Geography Now)",
    "order": 130,
-   "status": "pending",
+   "status": "done",
    "duration": 487.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-01-13",
+   "note": "专题与其他/130_沙特阿拉伯是什么样的.md",
+   "done": "2026-11-01"
   },
   "l30Yu9-7MDY": {
    "id": "l30Yu9-7MDY",
    "title": "Geography More! Belarus, Belgium and Belize",
    "order": 129,
-   "status": "pending",
+   "status": "done",
    "duration": 618.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-12-30",
+   "note": "补充集/129_补充集_白俄罗斯比利时伯利兹.md",
+   "done": "2026-11-01"
   },
   "jKd06kNcAC8": {
    "id": "jKd06kNcAC8",
    "title": "Geography Come! Welcome to L.A. Interns!",
    "order": 128,
-   "status": "pending",
+   "status": "done",
    "duration": 370.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-12-21",
+   "note": "专题与其他/128_欢迎实习生来洛杉矶.md",
+   "done": "2026-11-01"
   },
   "WMKu8WZ3FGc": {
    "id": "WMKu8WZ3FGc",
    "title": "The difference between North and South Korea",
    "order": 127,
-   "status": "pending",
+   "status": "done",
    "duration": 323.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-12-16",
+   "note": "专题与其他/127_朝鲜与韩国的区别.md",
+   "done": "2026-11-01"
   },
   "QrSnDl4Wowc": {
    "id": "QrSnDl4Wowc",
    "title": "Flag Friday FRANCE (Geography Now)",
    "order": 126,
-   "status": "pending",
+   "status": "done",
    "duration": 156.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-12-09",
+   "note": "国旗粉丝日/法国_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "g0QrBphsioM": {
    "id": "g0QrBphsioM",
    "title": "Geography Now! France",
    "order": 125,
-   "status": "pending",
+   "status": "done",
    "duration": 1011.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-12-08",
+   "note": "法国.md",
+   "done": "2026-11-01"
   },
   "DAIyRVxrjP4": {
    "id": "DAIyRVxrjP4",
    "title": "Flag/ Fan Friday Rep. of North Macedonia (Geography Now!)",
    "order": 124,
-   "status": "pending",
+   "status": "done",
    "duration": 189.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-12-02",
+   "note": "国旗粉丝日/北马其顿_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "hoBQRhNbreI": {
    "id": "hoBQRhNbreI",
    "title": "Geography Now! Rep. of North Macedonia",
    "order": 123,
-   "status": "pending",
+   "status": "done",
    "duration": 705.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-11-30",
+   "note": "北马其顿.md",
+   "done": "2026-11-01"
   },
   "Q5EtPnFHv9Y": {
    "id": "Q5EtPnFHv9Y",
    "title": "Flag Friday FINLAND (Geography Now)",
    "order": 122,
-   "status": "pending",
+   "status": "done",
    "duration": 141.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-11-25",
+   "note": "国旗粉丝日/芬兰_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "4uwcqkBwLqo": {
    "id": "4uwcqkBwLqo",
