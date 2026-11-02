@@ -4214,81 +4214,111 @@
    "id": "rTsPaAIJdnw",
    "title": "Geography Now! Colombia",
    "order": 61,
-   "status": "pending",
+   "status": "done",
    "duration": 777.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-02-27",
+   "note": "哥伦比亚.md",
+   "done": "2026-11-01"
   },
   "b9QIjZdBogQ": {
    "id": "b9QIjZdBogQ",
    "title": "Geography More! Argentina, Armenia and Australia",
    "order": 60,
-   "status": "pending",
+   "status": "done",
    "duration": 608.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-02-24",
+   "note": "补充集/060_补充集_阿根廷亚美尼亚澳大利亚.md",
+   "done": "2026-11-01"
   },
   "Efuyl2Anehg": {
    "id": "Efuyl2Anehg",
    "title": "Geography Go! Bahrain",
    "order": 59,
-   "status": "pending",
+   "status": "done",
    "duration": 512.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-02-13",
+   "note": "实地探访/059_巴林.md",
+   "done": "2026-11-01"
   },
   "lzAESaVqix0": {
    "id": "lzAESaVqix0",
    "title": "Geography Now! China",
    "order": 58,
-   "status": "pending",
+   "status": "done",
    "duration": 1190.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-02-08",
+   "note": "中国.md",
+   "done": "2026-11-01"
   },
   "ZT_n7Al4YfI": {
    "id": "ZT_n7Al4YfI",
    "title": "Geograppreciation! #5",
    "order": 57,
-   "status": "pending",
+   "status": "done",
    "duration": 111.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-01-19",
+   "note": "地理欣赏/057_地理欣赏5.md",
+   "done": "2026-11-01"
   },
   "8P4Hi99hUJc": {
    "id": "8P4Hi99hUJc",
    "title": "Geography Now! Chile",
    "order": 56,
-   "status": "pending",
+   "status": "done",
    "duration": 700.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-01-17",
+   "note": "智利.md",
+   "done": "2026-11-01"
   },
   "EyGEJIKCgJ4": {
    "id": "EyGEJIKCgJ4",
    "title": "Tumor 2",
    "order": 55,
-   "status": "pending",
+   "status": "done",
    "duration": 365.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-01-11",
+   "note": "专题与其他/055_父亲脑瘤2.md",
+   "done": "2026-11-01"
   },
   "jJZ66hPQLe4": {
    "id": "jJZ66hPQLe4",
    "title": "Geography Now! Chad",
    "order": 54,
-   "status": "pending",
+   "status": "done",
    "duration": 624.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-01-08",
+   "note": "乍得.md",
+   "done": "2026-11-01"
   },
   "rIU_BQEuKQ8": {
    "id": "rIU_BQEuKQ8",
    "title": "MERRY CHRISTMAS (Island)!!!!",
    "order": 53,
-   "status": "pending",
+   "status": "done",
    "duration": 291.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-12-25",
+   "note": "专题与其他/053_圣诞岛.md",
+   "done": "2026-11-01"
   },
   "r4KyslvtOk4": {
    "id": "r4KyslvtOk4",
    "title": "Geography Now! Central African Republic",
    "order": 52,
-   "status": "pending",
+   "status": "done",
    "duration": 656.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-12-22",
+   "note": "中非共和国.md",
+   "done": "2026-11-01"
   },
   "q99tzGgkd4k": {
    "id": "q99tzGgkd4k",
