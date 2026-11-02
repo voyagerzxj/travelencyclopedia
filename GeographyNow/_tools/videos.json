@@ -1572,81 +1572,109 @@
    "id": "mnoZ1A4TU80",
    "title": "Geography Now! SÃO TOMÉ AND PRÍNCIPE",
    "order": 391,
-   "status": "pending",
+   "status": "done",
    "duration": 1355.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-05-18",
+   "note": "圣多美和普林西比.md",
+   "done": "2026-11-02"
   },
   "F_-5OwlDPlA": {
    "id": "F_-5OwlDPlA",
    "title": "FLAG/ FAN FRIDAY SAN MARINO (Geography Now!)",
    "order": 390,
-   "status": "pending",
+   "status": "done",
    "duration": 756.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-05-08",
+   "note": "国旗粉丝日/圣马力诺_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "SU4W_tIFbTc": {
    "id": "SU4W_tIFbTc",
    "title": "Geography Now! SAN MARINO",
    "order": 389,
-   "status": "pending",
+   "status": "done",
    "duration": 1190.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-05-06",
+   "note": "圣马力诺.md",
+   "done": "2026-11-02"
   },
   "0VLQOYlvvaM": {
    "id": "0VLQOYlvvaM",
    "title": "What is the LARGEST city nobody talks about? (Geography Now)",
    "order": 388,
-   "status": "pending",
+   "status": "done",
    "duration": 730.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-04-24",
+   "note": "专题与其他/388_没人谈论的最大城市.md",
+   "done": "2026-11-02"
   },
   "KGRrgXAPw1Q": {
    "id": "KGRrgXAPw1Q",
    "title": "Flag/ Fan Friday SAMOA (Geography Now!)",
    "order": 387,
-   "status": "pending",
+   "status": "done",
    "duration": 914.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-04-17",
+   "note": "国旗粉丝日/萨摩亚_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "vEt3jg2XTO4": {
    "id": "vEt3jg2XTO4",
    "title": "Geography Now! SAMOA",
    "order": 386,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1400.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-04-15",
+   "skip_reason": "无字幕"
   },
   "604lx78Zz1M": {
    "id": "604lx78Zz1M",
    "title": "Geography Now! QITZIKWAKA",
    "order": 385,
-   "status": "pending",
+   "status": "done",
    "duration": 828.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-04-01",
+   "note": "专题与其他/385_愚人节虚构国家Qitzikwaka.md",
+   "done": "2026-11-02"
   },
   "Cj1mJGTmLRs": {
    "id": "Cj1mJGTmLRs",
    "title": "OCEANIA EXPLAINED (Geography Now!)",
    "order": 384,
-   "status": "pending",
+   "status": "skipped",
    "duration": 731.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-03-27",
+   "skip_reason": "无字幕"
   },
   "p_a0W61gDgE": {
    "id": "p_a0W61gDgE",
    "title": "Flag/ FanFriday ST. VINCENT AND THE GRENADINES (Geography Now!)",
    "order": 383,
-   "status": "pending",
+   "status": "done",
    "duration": 822.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-03-20",
+   "note": "国旗粉丝日/圣文森特和格林纳丁斯_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "E5DV8mD9_eQ": {
    "id": "E5DV8mD9_eQ",
    "title": "Geography Now! ST. VINCENT AND THE GRENADINES",
    "order": 382,
-   "status": "pending",
+   "status": "done",
    "duration": 1355.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2020-03-18",
+   "note": "圣文森特和格林纳丁斯.md",
+   "done": "2026-11-02"
   },
   "yMTVM8v7gac": {
    "id": "yMTVM8v7gac",
