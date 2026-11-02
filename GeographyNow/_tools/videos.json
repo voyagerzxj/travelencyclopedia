@@ -4134,81 +4134,111 @@
    "id": "iQnhoYc2QTg",
    "title": "Geography Now! Cuba",
    "order": 71,
-   "status": "pending",
+   "status": "done",
    "duration": 516.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-05-18",
+   "note": "古巴.md",
+   "done": "2026-11-01"
   },
   "Ok5LmqoromI": {
    "id": "Ok5LmqoromI",
    "title": "Geography Now! Croatia",
    "order": 70,
-   "status": "pending",
+   "status": "done",
    "duration": 624.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-05-12",
+   "note": "克罗地亚.md",
+   "done": "2026-11-01"
   },
   "DaBEGru_IEc": {
    "id": "DaBEGru_IEc",
    "title": "Geography Now! Costa Rica",
    "order": 69,
-   "status": "pending",
+   "status": "done",
    "duration": 635.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-05-07",
+   "note": "哥斯达黎加.md",
+   "done": "2026-11-01"
   },
   "xEW_fjNuXNE": {
    "id": "xEW_fjNuXNE",
    "title": "Geography Now! CONGO (Republic)",
    "order": 68,
-   "status": "pending",
+   "status": "done",
    "duration": 698.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-04-15",
+   "note": "刚果共和国.md",
+   "done": "2026-11-01"
   },
   "1j_IkEvBBDc": {
    "id": "1j_IkEvBBDc",
    "title": "Geography Go! Saudi Arabia (Riyadh)",
    "order": 67,
-   "status": "pending",
+   "status": "done",
    "duration": 324.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-04-08",
+   "note": "实地探访/067_沙特阿拉伯_利雅得.md",
+   "done": "2026-11-01"
   },
   "-6weNgBiXSk": {
    "id": "-6weNgBiXSk",
    "title": "Geograppreciation! #6",
    "order": 66,
-   "status": "pending",
+   "status": "done",
    "duration": 146.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-04-03",
+   "note": "地理欣赏/066_地理欣赏6.md",
+   "done": "2026-11-01"
   },
   "VMiva3rm97M": {
    "id": "VMiva3rm97M",
    "title": "PGC Brey - What are the \"kind of\" countries?\"(CGP Grey Parody)",
    "order": 65,
-   "status": "pending",
+   "status": "done",
    "duration": 295.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-04-01",
+   "note": "专题与其他/065_那些算是国家的地方.md",
+   "done": "2026-11-01"
   },
   "dD3ZFQ62Vxc": {
    "id": "dD3ZFQ62Vxc",
    "title": "Geography Now! CONGO (Democratic republic)",
    "order": 64,
-   "status": "pending",
+   "status": "done",
    "duration": 779.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-03-29",
+   "note": "刚果民主共和国.md",
+   "done": "2026-11-01"
   },
   "bUHlPjzZCdQ": {
    "id": "bUHlPjzZCdQ",
    "title": "Geography Go! Saudi Arabia (Al-ghat)",
    "order": 63,
-   "status": "pending",
+   "status": "done",
    "duration": 597.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-03-16",
+   "note": "实地探访/063_沙特阿拉伯_盖特.md",
+   "done": "2026-11-01"
   },
   "dFccny3iGbo": {
    "id": "dFccny3iGbo",
    "title": "Geography Now! Comoros",
    "order": 62,
-   "status": "pending",
+   "status": "done",
    "duration": 682.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2016-03-09",
+   "note": "科摩罗.md",
+   "done": "2026-11-01"
   },
   "rTsPaAIJdnw": {
    "id": "rTsPaAIJdnw",
