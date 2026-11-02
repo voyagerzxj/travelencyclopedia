@@ -4374,81 +4374,111 @@
    "id": "SlVmp7zBbKU",
    "title": "Geography Now! Bulgaria",
    "order": 41,
-   "status": "pending",
+   "status": "done",
    "duration": 690.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-09-06",
+   "note": "保加利亚.md",
+   "done": "2026-11-01"
   },
   "bNTTFmgbPZY": {
    "id": "bNTTFmgbPZY",
    "title": "Geography Now! Brunei",
    "order": 40,
-   "status": "pending",
+   "status": "done",
    "duration": 684.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-08-30",
+   "note": "文莱.md",
+   "done": "2026-11-01"
   },
   "RC5N_W1crSA": {
    "id": "RC5N_W1crSA",
    "title": "Tumor",
    "order": 39,
-   "status": "pending",
+   "status": "done",
    "duration": 141.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-08-17",
+   "note": "专题与其他/039_父亲脑瘤.md",
+   "done": "2026-11-01"
   },
   "JFfcD-SkqIc": {
    "id": "JFfcD-SkqIc",
    "title": "Geography Now! Brazil",
    "order": 38,
-   "status": "pending",
+   "status": "done",
    "duration": 739.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-08-15",
+   "note": "巴西.md",
+   "done": "2026-11-01"
   },
   "ge6ojh4CQNc": {
    "id": "ge6ojh4CQNc",
    "title": "Which countries will you cover?",
    "order": 37,
-   "status": "pending",
+   "status": "done",
    "duration": 477.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-08-06",
+   "note": "专题与其他/037_会介绍哪些国家.md",
+   "done": "2026-11-01"
   },
   "ZrN6kiVhTVw": {
    "id": "ZrN6kiVhTVw",
    "title": "Geograppreciation!  #2!",
    "order": 36,
-   "status": "pending",
+   "status": "done",
    "duration": 131.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-08-04",
+   "note": "地理欣赏/036_地理欣赏2.md",
+   "done": "2026-11-01"
   },
   "RJkIdd5D8HA": {
    "id": "RJkIdd5D8HA",
    "title": "Geography Now! Botswana",
    "order": 35,
-   "status": "pending",
+   "status": "done",
    "duration": 672.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-07-18",
+   "note": "博茨瓦纳.md",
+   "done": "2026-11-01"
   },
   "KO0rEwwyB0g": {
    "id": "KO0rEwwyB0g",
    "title": "Geography Now! Bosnia and Herzegovina",
    "order": 34,
-   "status": "pending",
+   "status": "done",
    "duration": 679.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-07-10",
+   "note": "波斯尼亚和黑塞哥维那.md",
+   "done": "2026-11-01"
   },
   "AJx1RcIO61I": {
    "id": "AJx1RcIO61I",
    "title": "Geography Now! Bolivia",
    "order": 33,
-   "status": "pending",
+   "status": "done",
    "duration": 692.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-07-01",
+   "note": "玻利维亚.md",
+   "done": "2026-11-01"
   },
   "v3_EezKE0WI": {
    "id": "v3_EezKE0WI",
    "title": "Geography Now! Bhutan",
    "order": 32,
-   "status": "pending",
+   "status": "done",
    "duration": 680.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-06-26",
+   "note": "不丹.md",
+   "done": "2026-11-01"
   },
   "rQZ3IC8usfU": {
    "id": "rQZ3IC8usfU",
