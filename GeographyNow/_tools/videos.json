@@ -3414,81 +3414,111 @@
    "id": "segm-kfNMqg",
    "title": "Goodbye dad",
    "order": 161,
-   "status": "pending",
+   "status": "done",
    "duration": 399.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-04-22",
+   "note": "专题与其他/161_再见爸爸.md",
+   "done": "2026-11-01"
   },
   "tYkmZybiK2g": {
    "id": "tYkmZybiK2g",
    "title": "My father passed away",
    "order": 160,
-   "status": "pending",
+   "status": "done",
    "duration": 26.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-04-19",
+   "note": "专题与其他/160_父亲去世.md",
+   "done": "2026-11-01"
   },
   "-ToD8fKbhiw": {
    "id": "-ToD8fKbhiw",
    "title": "Flag Friday! Guatemala (Geography Now!)",
    "order": 159,
-   "status": "pending",
+   "status": "done",
    "duration": 358.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-04-14",
+   "note": "国旗粉丝日/危地马拉_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "L1TSpYN0MBg": {
    "id": "L1TSpYN0MBg",
    "title": "Geography Now! Guatemala",
    "order": 158,
-   "status": "pending",
+   "status": "done",
    "duration": 674.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-04-12",
+   "note": "危地马拉.md",
+   "done": "2026-11-01"
   },
   "DVlvA4lyInM": {
    "id": "DVlvA4lyInM",
    "title": "Flag Friday Grenada (Geography Now)",
    "order": 157,
-   "status": "pending",
+   "status": "done",
    "duration": 386.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-04-07",
+   "note": "国旗粉丝日/格林纳达_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "fHZ_cVHPRmM": {
    "id": "fHZ_cVHPRmM",
    "title": "Geography Now! Grenada",
    "order": 156,
-   "status": "pending",
+   "status": "done",
    "duration": 579.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-04-05",
+   "note": "格林纳达.md",
+   "done": "2026-11-01"
   },
   "cn38U_c7xh8": {
    "id": "cn38U_c7xh8",
    "title": "Geometry Now!",
    "order": 155,
-   "status": "pending",
+   "status": "done",
    "duration": 304.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-04-01",
+   "note": "专题与其他/155_几何学Now愚人节.md",
+   "done": "2026-11-01"
   },
   "cwJ4gdcArmg": {
    "id": "cwJ4gdcArmg",
    "title": "Flag Friday Greece! (Geography Now)",
    "order": 154,
-   "status": "pending",
+   "status": "done",
    "duration": 316.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-31",
+   "note": "国旗粉丝日/希腊_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "Cp3yabqF4Uw": {
    "id": "Cp3yabqF4Uw",
    "title": "Geography Now! Greece",
    "order": 153,
-   "status": "pending",
+   "status": "done",
    "duration": 827.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-29",
+   "note": "希腊.md",
+   "done": "2026-11-01"
   },
   "-9vEf8uYKFc": {
    "id": "-9vEf8uYKFc",
    "title": "Flag Friday Ghana! (Geography Now)",
    "order": 152,
-   "status": "pending",
+   "status": "done",
    "duration": 412.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-03-24",
+   "note": "国旗粉丝日/加纳_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "tzXARwHs-YQ": {
    "id": "tzXARwHs-YQ",
