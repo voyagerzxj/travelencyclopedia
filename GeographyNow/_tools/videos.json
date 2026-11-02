@@ -1732,81 +1732,110 @@
    "id": "si_PQDNctjo",
    "title": "Merry Christmas from Geography Now! (Win a T-Shirt!)",
    "order": 371,
-   "status": "pending",
+   "status": "done",
    "duration": 290.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-12-25",
+   "note": "专题与其他/371_圣诞快乐与T恤抽奖.md",
+   "done": "2026-11-02"
   },
   "lUvQ6uKiU4s": {
    "id": "lUvQ6uKiU4s",
    "title": "Flag/ Fan Friday! ROMANIA (Geography Now!)",
    "order": 370,
-   "status": "pending",
+   "status": "done",
    "duration": 725.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-12-13",
+   "note": "国旗粉丝日/罗马尼亚_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "ZRMbh0wSly0": {
    "id": "ZRMbh0wSly0",
    "title": "Geography Now! ROMANIA",
    "order": 369,
-   "status": "pending",
+   "status": "done",
    "duration": 1178.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-12-11",
+   "note": "罗马尼亚.md",
+   "done": "2026-11-02"
   },
   "iK2gSBrSRWk": {
    "id": "iK2gSBrSRWk",
    "title": "Flag/ Fan Friday QATAR (Geography Now!)",
    "order": 368,
-   "status": "pending",
+   "status": "done",
    "duration": 804.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-12-06",
+   "note": "国旗粉丝日/卡塔尔_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "oqfW7xn215o": {
    "id": "oqfW7xn215o",
    "title": "Geography Now! QATAR",
    "order": 367,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1139.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-12-04",
+   "skip_reason": "无字幕"
   },
   "ve0NWnG9ymI": {
    "id": "ve0NWnG9ymI",
    "title": "The world's largest + most important IGOs you should know (Geography Now!)",
    "order": 366,
-   "status": "pending",
+   "status": "done",
    "duration": 920.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-11-20",
+   "note": "专题与其他/366_重要的国际组织.md",
+   "done": "2026-11-02"
   },
   "-KDwJK0pLNc": {
    "id": "-KDwJK0pLNc",
    "title": "Autonomous regions of SPAIN explained (Geography Now)",
    "order": 365,
-   "status": "pending",
+   "status": "done",
    "duration": 1021.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-11-15",
+   "note": "专题与其他/365_西班牙各自治区.md",
+   "done": "2026-11-02"
   },
   "Zl0hsvU17h4": {
    "id": "Zl0hsvU17h4",
    "title": "Flag/ Fan Friday PORTUGAL (Geography Now!)",
    "order": 364,
-   "status": "pending",
+   "status": "done",
    "duration": 846.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-11-08",
+   "note": "国旗粉丝日/葡萄牙_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "mq6L8CnNJXc": {
    "id": "mq6L8CnNJXc",
    "title": "Geography Now! PORTUGAL",
    "order": 363,
-   "status": "pending",
+   "status": "done",
    "duration": 1185.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-11-06",
+   "note": "葡萄牙.md",
+   "done": "2026-11-02"
   },
   "Ks2wfpnEWxE": {
    "id": "Ks2wfpnEWxE",
    "title": "Fan Friday POLAND (Geography Now!)",
    "order": 362,
-   "status": "pending",
+   "status": "done",
    "duration": 926.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2019-11-01",
+   "note": "国旗粉丝日/波兰_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "Hn8XXPl1vjU": {
    "id": "Hn8XXPl1vjU",
