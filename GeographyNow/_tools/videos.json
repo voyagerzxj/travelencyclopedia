@@ -4454,81 +4454,111 @@
    "id": "rQZ3IC8usfU",
    "title": "Geograppreciation! #1",
    "order": 31,
-   "status": "pending",
+   "status": "done",
    "duration": 96.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-06-15",
+   "note": "地理欣赏/031_地理欣赏1.md",
+   "done": "2026-11-01"
   },
   "0RAT4pUgqno": {
    "id": "0RAT4pUgqno",
    "title": "Geography Now! Q&A #2",
    "order": 30,
-   "status": "pending",
+   "status": "done",
    "duration": 409.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-06-06",
+   "note": "专题与其他/030_第二次问答.md",
+   "done": "2026-11-01"
   },
   "y4CIn0jweuc": {
    "id": "y4CIn0jweuc",
    "title": "Geography Now! Benin",
    "order": 29,
-   "status": "pending",
+   "status": "done",
    "duration": 671.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-06-01",
+   "note": "贝宁.md",
+   "done": "2026-11-01"
   },
   "3MrYk3kCUGk": {
    "id": "3MrYk3kCUGk",
    "title": "Geography Now! Belize",
    "order": 28,
-   "status": "pending",
+   "status": "done",
    "duration": 676.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-05-25",
+   "note": "伯利兹.md",
+   "done": "2026-11-01"
   },
   "0TuMvWCbM-g": {
    "id": "0TuMvWCbM-g",
    "title": "Geography Now! Belgium",
    "order": 27,
-   "status": "pending",
+   "status": "done",
    "duration": 659.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-05-21",
+   "note": "比利时.md",
+   "done": "2026-11-01"
   },
   "WZveRvcQERQ": {
    "id": "WZveRvcQERQ",
    "title": "Update: Interviewed by NATIONAL GEOGRAPHIC?!",
    "order": 26,
-   "status": "pending",
+   "status": "done",
    "duration": 258.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-05-19",
+   "note": "专题与其他/026_被国家地理采访.md",
+   "done": "2026-11-01"
   },
   "nASqSOtXkhk": {
    "id": "nASqSOtXkhk",
    "title": "Geography Now! Belarus",
    "order": 25,
-   "status": "pending",
+   "status": "done",
    "duration": 675.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-05-15",
+   "note": "白俄罗斯.md",
+   "done": "2026-11-01"
   },
   "uvA3DUJCxpY": {
    "id": "uvA3DUJCxpY",
    "title": "Geography Now! Barbados",
    "order": 24,
-   "status": "pending",
+   "status": "done",
    "duration": 514.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-04-26",
+   "note": "巴巴多斯.md",
+   "done": "2026-11-01"
   },
   "ljebhxk_9ys": {
    "id": "ljebhxk_9ys",
    "title": "Geography Now! Bangladesh",
    "order": 23,
-   "status": "pending",
+   "status": "done",
    "duration": 636.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-04-19",
+   "note": "孟加拉国.md",
+   "done": "2026-11-01"
   },
   "P2gHUcwZbYk": {
    "id": "P2gHUcwZbYk",
    "title": "Geography Now! Bahrain",
    "order": 22,
-   "status": "pending",
+   "status": "done",
    "duration": 648.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-04-10",
+   "note": "巴林.md",
+   "done": "2026-11-01"
   },
   "CsQYZoPlHcM": {
    "id": "CsQYZoPlHcM",
