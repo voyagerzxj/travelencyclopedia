@@ -4615,33 +4615,45 @@
    "id": "Fmt6RNm9z14",
    "title": "Geography Now! Update, 8,000 subs!",
    "order": 11,
-   "status": "pending",
+   "status": "done",
    "duration": 246.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-01-19",
+   "note": "专题与其他/011_8000订阅更新.md",
+   "done": "2026-11-01"
   },
   "sL4JK_bDo0A": {
    "id": "sL4JK_bDo0A",
    "title": "Geography Now! Armenia",
    "order": 10,
-   "status": "pending",
+   "status": "done",
    "duration": 562.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-01-16",
+   "note": "亚美尼亚.md",
+   "done": "2026-11-01"
   },
   "1U0N4SGL46A": {
    "id": "1U0N4SGL46A",
    "title": "Geography Now! Argentina",
    "order": 9,
-   "status": "pending",
+   "status": "done",
    "duration": 618.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2015-01-05",
+   "note": "阿根廷.md",
+   "done": "2026-11-01"
   },
   "1Fmpl5Z2IEI": {
    "id": "1Fmpl5Z2IEI",
    "title": "Geography Now! More videos coming!",
    "order": 8,
-   "status": "pending",
+   "status": "done",
    "duration": 169.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2014-12-27",
+   "note": "专题与其他/008_更多视频即将推出.md",
+   "done": "2026-11-01"
   },
   "5OpiUD3qtY8": {
    "id": "5OpiUD3qtY8",
@@ -4713,9 +4725,12 @@
    "id": "0kQQpBPuGj4",
    "title": "Geography Now! Trailer",
    "order": 1,
-   "status": "pending",
+   "status": "done",
    "duration": 67.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2014-10-10",
+   "note": "专题与其他/001_频道预告片.md",
+   "done": "2026-11-01"
   }
  },
  "updated": "2026-11-01"
