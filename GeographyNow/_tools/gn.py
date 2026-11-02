@@ -4,7 +4,7 @@
   python gn.py update            抓取频道视频列表，合并进 videos.json，列出新视频
   python gn.py list [all|pending|done|skipped] [--country]
                                  列出视频（默认 pending）；--country 只看国家介绍集
-  python gn.py next [--country]  取最早一个未处理的视频，下载字幕，转成纯文本
+  python gn.py next [--country]  取最早一个未处理的视频（默认所有类别），下载字幕，转成纯文本
   python gn.py fetch <id>        下载指定视频的字幕
   python gn.py done <id> <笔记文件名>   标记已写完笔记，并重建目录索引
   python gn.py skip <id> [原因]  跳过某个视频（如预告片、无字幕）
@@ -49,8 +49,38 @@ def save(db):
     DB.write_text(json.dumps(db, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+NOT_COUNTRY = re.compile(r"trailer|update|q ?& ?a|more videos|subs|bandiaterra|award|play button|million|\?|special", re.I)
+
+# 类别 -> (中文名, 笔记子文件夹)。国家介绍集放在 GeographyNow/ 根目录
+CATEGORIES = {
+    "country": ("国家介绍", ""),
+    "flagfan": ("国旗/粉丝日", "国旗粉丝日"),
+    "appreciation": ("地理欣赏", "地理欣赏"),
+    "go": ("实地探访", "实地探访"),
+    "more": ("补充集", "补充集"),
+    "other": ("专题与其他", "专题与其他"),
+}
+
+
+def category(v):
+    if v.get("cat"):  # videos.json 里可手动指定
+        return v["cat"]
+    t = v["title"]
+    if re.search(r"flag\s*/?\s*(fan|friday|day)|fan\s*/?\s*(flag|friday|day)", t, re.I):
+        return "flagfan"
+    if re.search(r"geograppreciation", t, re.I):
+        return "appreciation"
+    if re.search(r"geography go\b", t, re.I):
+        return "go"
+    if re.search(r"geography more\b", t, re.I):
+        return "more"
+    if COUNTRY_RE.match(t) and not NOT_COUNTRY.search(t):
+        return "country"
+    return "other"
+
+
 def is_country(v):
-    return bool(COUNTRY_RE.match(v["title"])) and "trailer" not in v["title"].lower()
+    return category(v) == "country"
 
 
 def ordered(db, status=None, country=False):
@@ -163,14 +193,19 @@ def cmd_skip(db, vid, reason=""):
 
 def cmd_index(db):
     done = ordered(db, "done")
-    total = len(ordered(db, None, True))
+    allv = ordered(db)
+    counts = {}
+    for v in allv:
+        counts[category(v)] = counts.get(category(v), 0) + 1
+    summary = "、".join(f"{CATEGORIES[c][0]} {counts.get(c, 0)}" for c in CATEGORIES)
     out = ["# Geography Now 笔记目录", "",
-           f"已完成 {len(done)} 篇（频道国家介绍集共 {total} 集）。按视频发布先后排列。", "",
-           "| # | 笔记 | 视频 | 发布 |", "|---|---|---|---|"]
-    for i, v in enumerate(done, 1):
+           f"已完成 {len(done)} / {len(allv)} 个视频（{summary}）。按视频发布先后排列。", "",
+           "国家介绍集在本文件夹根目录，其他视频按类别放在子文件夹里。", "",
+           "| # | 类别 | 笔记 | 视频 | 发布 |", "|---|---|---|---|---|"]
+    for v in done:
         note = v["note"]
-        out.append(f"| {i} | [{Path(note).stem}]({note}) | [{v['title']}](https://www.youtube.com/watch?v={v['id']}) "
-                   f"| {v.get('upload_date', '')} |")
+        out.append(f"| {v['order']} | {CATEGORIES[category(v)][0]} | [{Path(note).stem}]({note}) "
+                   f"| [{v['title']}](https://www.youtube.com/watch?v={v['id']}) | {v.get('upload_date', '')} |")
     INDEX.write_text("\n".join(out) + "\n", encoding="utf-8")
 
 

@@ -2694,7 +2694,8 @@
    "order": 251,
    "status": "pending",
    "duration": 658.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "cat": "country"
   },
   "dgPLD_XzggY": {
    "id": "dgPLD_XzggY",
@@ -2702,7 +2703,8 @@
    "order": 250,
    "status": "pending",
    "duration": 695.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "cat": "country"
   },
   "0t-UiVWYKQA": {
    "id": "0t-UiVWYKQA",
@@ -4534,7 +4536,8 @@
    "order": 21,
    "status": "pending",
    "duration": 525.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "cat": "other"
   },
   "Ol0i9-qvkjU": {
    "id": "Ol0i9-qvkjU",
@@ -4710,10 +4713,9 @@
    "id": "0kQQpBPuGj4",
    "title": "Geography Now! Trailer",
    "order": 1,
-   "status": "skipped",
+   "status": "pending",
    "duration": 67.0,
-   "found": "2026-11-01",
-   "skip_reason": "预告片"
+   "found": "2026-11-01"
   }
  },
  "updated": "2026-11-01"
