@@ -2774,81 +2774,109 @@
    "id": "dbmZQDySpzY",
    "title": "Geography Now! LAOS",
    "order": 241,
-   "status": "pending",
+   "status": "done",
    "duration": 753.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-01-31",
+   "note": "老挝.md",
+   "done": "2026-11-01"
   },
   "72r_guh_Ckc": {
    "id": "72r_guh_Ckc",
    "title": "Wakanda (Black Panther) Geography Now!",
    "order": 240,
-   "status": "pending",
+   "status": "skipped",
    "duration": 400.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-01-28",
+   "skip_reason": "无字幕"
   },
   "Uin3RonY0Hw": {
    "id": "Uin3RonY0Hw",
    "title": "Flag / Fan Friday KYRGYZSTAN! (Geography Now!)",
    "order": 239,
-   "status": "pending",
+   "status": "done",
    "duration": 615.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-01-26",
+   "note": "国旗粉丝日/吉尔吉斯斯坦_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "Wo-b_MpguLo": {
    "id": "Wo-b_MpguLo",
    "title": "Geography Now! Kyrgyzstan",
    "order": 238,
-   "status": "pending",
+   "status": "done",
    "duration": 693.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-01-24",
+   "note": "吉尔吉斯斯坦.md",
+   "done": "2026-11-01"
   },
   "JgdYMPkFNyM": {
    "id": "JgdYMPkFNyM",
    "title": "FLAG/ FAN FRIDAY KUWAIT, Got something from ANTARCTICA! (Geography Now!)",
    "order": 237,
-   "status": "pending",
+   "status": "done",
    "duration": 697.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-01-19",
+   "note": "国旗粉丝日/科威特_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "S_pUIeE4Eko": {
    "id": "S_pUIeE4Eko",
    "title": "Geography Now! KUWAIT",
    "order": 236,
-   "status": "pending",
+   "status": "done",
    "duration": 730.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-01-17",
+   "note": "科威特.md",
+   "done": "2026-11-01"
   },
   "BLEAjyD5ncU": {
    "id": "BLEAjyD5ncU",
    "title": "What if Earth was UPSIDE DOWN? (Geography Now!)",
    "order": 235,
-   "status": "pending",
+   "status": "done",
    "duration": 266.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-01-12",
+   "note": "专题与其他/235_如果地球上下颠倒.md",
+   "done": "2026-11-01"
   },
   "4J4Zn9zAqc0": {
    "id": "4J4Zn9zAqc0",
    "title": "WORLD NEWS January 2018 (Geography Now)",
    "order": 234,
-   "status": "pending",
+   "status": "done",
    "duration": 515.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-01-07",
+   "note": "专题与其他/234_世界新闻2018年1月.md",
+   "done": "2026-11-01"
   },
   "tlMWDrRVgOY": {
    "id": "tlMWDrRVgOY",
    "title": "The Heritage trip (Geography Now!)",
    "order": 233,
-   "status": "pending",
+   "status": "skipped",
    "duration": 644.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-25",
+   "skip_reason": "无字幕"
   },
   "b43x5HFKvcY": {
    "id": "b43x5HFKvcY",
    "title": "The NEWEST islands on Earth (Geography Now!)",
    "order": 232,
-   "status": "pending",
+   "status": "done",
    "duration": 487.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-23",
+   "note": "专题与其他/232_地球上最新的岛屿.md",
+   "done": "2026-11-01"
   },
   "HYvM-zEBkHA": {
    "id": "HYvM-zEBkHA",
