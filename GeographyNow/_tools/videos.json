@@ -932,81 +932,109 @@
    "id": "bUVHrX_WmcQ",
    "title": "Geography Now! UGANDA",
    "order": 471,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1921.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-01-18",
+   "skip_reason": "无字幕"
   },
   "nKK0bg9kJa0": {
    "id": "nKK0bg9kJa0",
    "title": "ARMENIA-Things you will IMMEDIATELY notice when you enter (Geography GO!)",
    "order": 470,
-   "status": "pending",
+   "status": "done",
    "duration": 616.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-12-15",
+   "note": "实地探访/470_亚美尼亚第一印象.md",
+   "done": "2026-11-02"
   },
   "VZH9qiadeNU": {
    "id": "VZH9qiadeNU",
    "title": "Every British Constituent country, Territory, & Crown dependency, explained",
    "order": 469,
-   "status": "pending",
+   "status": "done",
    "duration": 671.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-12-03",
+   "note": "专题与其他/469_英国各构成国与属地.md",
+   "done": "2026-11-02"
   },
   "H8fjACjDw3s": {
    "id": "H8fjACjDw3s",
    "title": "Flag/ Fan day TUVALU (Geography Now!)",
    "order": 468,
-   "status": "pending",
+   "status": "done",
    "duration": 717.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-11-28",
+   "note": "国旗粉丝日/图瓦卢_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "H8z8glfqsm0": {
    "id": "H8z8glfqsm0",
    "title": "Geography Now! TUVALU",
    "order": 467,
-   "status": "pending",
+   "status": "done",
    "duration": 1988.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-11-23",
+   "note": "图瓦卢.md",
+   "done": "2026-11-02"
   },
   "DqAxoirodhA": {
    "id": "DqAxoirodhA",
    "title": "Flag / Fan day TURKMENISTAN (Geography Now!)",
    "order": 466,
-   "status": "pending",
+   "status": "skipped",
    "duration": 776.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-10-27",
+   "skip_reason": "无字幕"
   },
   "9ljMlfC3kUw": {
    "id": "9ljMlfC3kUw",
    "title": "Geography Now! TURKMENISTAN",
    "order": 465,
-   "status": "pending",
+   "status": "done",
    "duration": 1916.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-10-19",
+   "note": "土库曼斯坦.md",
+   "done": "2026-11-02"
   },
   "9OoT9zK523Q": {
    "id": "9OoT9zK523Q",
    "title": "Some of the STRANGEST / UNIQUE diasporas around the world",
    "order": 464,
-   "status": "pending",
+   "status": "done",
    "duration": 683.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-10-08",
+   "note": "专题与其他/464_奇特的海外侨民社群.md",
+   "done": "2026-11-02"
   },
   "d14AiK2naTI": {
    "id": "d14AiK2naTI",
    "title": "Geography GO! The THRACE RACE (Bulgaria, Greece, Turkey)",
    "order": 463,
-   "status": "pending",
+   "status": "done",
    "duration": 895.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-09-22",
+   "note": "实地探访/463_色雷斯之旅.md",
+   "done": "2026-11-02"
   },
   "kDf8f2jbYYM": {
    "id": "kDf8f2jbYYM",
    "title": "FLAG/ FAN DAY! TURKEY (Geography Now!) {Filmed in KOREA}",
    "order": 462,
-   "status": "pending",
+   "status": "done",
    "duration": 638.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-09-07",
+   "note": "国旗粉丝日/土耳其_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "BzMYQIo-0NA": {
    "id": "BzMYQIo-0NA",
