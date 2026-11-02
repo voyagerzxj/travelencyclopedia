@@ -452,81 +452,110 @@
    "id": "P__1_ss85Fk",
    "title": "Letter to Uzbekistan",
    "order": 531,
-   "status": "pending",
+   "status": "done",
    "duration": 1810.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-11-21",
+   "note": "专题与其他/531_致乌兹别克斯坦的信.md",
+   "done": "2026-11-02"
   },
   "uGs4g5amHqU": {
    "id": "uGs4g5amHqU",
    "title": "The CELTIC peoples explained",
    "order": 530,
-   "status": "pending",
+   "status": "done",
    "duration": 984.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-11-07",
+   "note": "专题与其他/530_凯尔特民族详解.md",
+   "done": "2026-11-02"
   },
   "aX_KAG0a2ZI": {
    "id": "aX_KAG0a2ZI",
    "title": "So...Now what?",
    "order": 529,
-   "status": "pending",
+   "status": "done",
    "duration": 369.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-10-20",
+   "note": "专题与其他/529_接下来做什么.md",
+   "done": "2026-11-02"
   },
   "Fd3J0ZhJGQA": {
    "id": "Fd3J0ZhJGQA",
    "title": "Geography Now! ZIMBABWE (THE LAST ONE)",
    "order": 528,
-   "status": "pending",
+   "status": "done",
    "duration": 3009.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-10-15",
+   "note": "津巴布韦.md",
+   "done": "2026-11-02"
   },
   "MbgtQceq0k8": {
    "id": "MbgtQceq0k8",
    "title": "If airlines were people at a party",
    "order": 527,
-   "status": "pending",
+   "status": "done",
    "duration": 685.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-09-25",
+   "note": "专题与其他/527_如果航空公司是派对上的人.md",
+   "done": "2026-11-02"
   },
   "37RXFZ38v0g": {
    "id": "37RXFZ38v0g",
    "title": "Letter to Botswana",
    "order": 526,
-   "status": "pending",
+   "status": "done",
    "duration": 936.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-09-14",
+   "note": "专题与其他/526_致博茨瓦纳的信.md",
+   "done": "2026-11-02"
   },
   "R3BghO_QtJs": {
    "id": "R3BghO_QtJs",
    "title": "Letter to Brazil",
    "order": 525,
-   "status": "pending",
+   "status": "done",
    "duration": 1281.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-08-20",
+   "note": "专题与其他/525_致巴西的信.md",
+   "done": "2026-11-02"
   },
   "pSnCqqTSBQg": {
    "id": "pSnCqqTSBQg",
    "title": "Geography Now! ZAMBIA",
    "order": 524,
-   "status": "pending",
+   "status": "done",
    "duration": 1996.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-08-13",
+   "note": "赞比亚.md",
+   "done": "2026-11-02"
   },
   "vaSoyAFa948": {
    "id": "vaSoyAFa948",
    "title": "The STATES of MEXICO explained",
    "order": 523,
-   "status": "pending",
+   "status": "skipped",
    "duration": 2208.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-07-30",
+   "skip_reason": "无字幕"
   },
   "tle6SEv6hHw": {
    "id": "tle6SEv6hHw",
    "title": "Letter to the Balkans",
    "order": 522,
-   "status": "pending",
+   "status": "done",
    "duration": 1543.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-07-14",
+   "note": "专题与其他/522_致巴尔干的信.md",
+   "done": "2026-11-02"
   },
   "WDTVzdccj-8": {
    "id": "WDTVzdccj-8",
