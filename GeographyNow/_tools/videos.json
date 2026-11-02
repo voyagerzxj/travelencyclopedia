@@ -1252,81 +1252,107 @@
    "id": "a65COiGoQVg",
    "title": "FLAG/ FAN FRIDAY SURINAME (Geography now)",
    "order": 431,
-   "status": "pending",
+   "status": "skipped",
    "duration": 772.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-09-03",
+   "skip_reason": "无字幕"
   },
   "ErJ6qaRhW-c": {
    "id": "ErJ6qaRhW-c",
    "title": "Geography Now! SURINAME",
    "order": 430,
-   "status": "pending",
+   "status": "done",
    "duration": 1675.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-09-01",
+   "note": "苏里南.md",
+   "done": "2026-11-02"
   },
   "CghhgvPdfNE": {
    "id": "CghhgvPdfNE",
    "title": "NANOOK, THE BAND YOU CAN'T UNDERSTAND (Greenland)",
    "order": 429,
-   "status": "pending",
+   "status": "done",
    "duration": 1167.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-08-17",
+   "note": "实地探访/429_Nanook格陵兰巡演.md",
+   "done": "2026-11-02"
   },
   "iXyifL0wcAw": {
    "id": "iXyifL0wcAw",
    "title": "FLAG/ FAN FRIDAY SOUTH SUDAN (Geography Now!)",
    "order": 428,
-   "status": "pending",
+   "status": "skipped",
    "duration": 768.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-08-06",
+   "skip_reason": "无字幕"
   },
   "bDuW49Lxbf4": {
    "id": "bDuW49Lxbf4",
    "title": "Geography Now! SOUTH SUDAN",
    "order": 427,
-   "status": "pending",
+   "status": "done",
    "duration": 1844.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-08-04",
+   "note": "南苏丹.md",
+   "done": "2026-11-02"
   },
   "lEeYO7ElsHw": {
    "id": "lEeYO7ElsHw",
    "title": "FLAG / FAN FRIDAY SUDAN (Geography Now!)",
    "order": 426,
-   "status": "pending",
+   "status": "done",
    "duration": 671.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-06-26",
+   "note": "国旗粉丝日/苏丹_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "GwcXYTX2GmA": {
    "id": "GwcXYTX2GmA",
    "title": "Geography Now! SUDAN",
    "order": 425,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1751.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-06-23",
+   "skip_reason": "无字幕"
   },
   "xJxngCxN6KA": {
    "id": "xJxngCxN6KA",
    "title": "FLAG/ FAN FRIDAY SRI LANKA (Geography Now!)",
    "order": 424,
-   "status": "pending",
+   "status": "done",
    "duration": 716.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-05-28",
+   "note": "国旗粉丝日/斯里兰卡_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "1WheVxmQlo0": {
    "id": "1WheVxmQlo0",
    "title": "Geography Now! SRI LANKA",
    "order": 423,
-   "status": "pending",
+   "status": "done",
    "duration": 1850.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-05-26",
+   "note": "斯里兰卡.md",
+   "done": "2026-11-02"
   },
   "x56KMOpnb34": {
    "id": "x56KMOpnb34",
    "title": "Extinct countries you may not have heard of! (Geography Now!)",
    "order": 422,
-   "status": "pending",
+   "status": "skipped",
    "duration": 683.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-05-03",
+   "skip_reason": "无字幕"
   },
   "Oq4z-1YUDP8": {
    "id": "Oq4z-1YUDP8",
