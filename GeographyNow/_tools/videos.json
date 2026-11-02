@@ -2854,81 +2854,110 @@
    "id": "HYvM-zEBkHA",
    "title": "Flag/ Fan Friday SOUTH KOREA (Geography Now!)",
    "order": 231,
-   "status": "pending",
+   "status": "done",
    "duration": 491.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-22",
+   "note": "国旗粉丝日/韩国_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "zTK119W8MBA": {
    "id": "zTK119W8MBA",
    "title": "Geography Now! SOUTH KOREA (ROK)",
    "order": 230,
-   "status": "pending",
+   "status": "done",
    "duration": 1070.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-20",
+   "note": "韩国.md",
+   "done": "2026-11-01"
   },
   "oiL0u00nMzI": {
    "id": "oiL0u00nMzI",
    "title": "Flag/ Fan Friday NORTH KOREA (Geography Now!)",
    "order": 229,
-   "status": "pending",
+   "status": "done",
    "duration": 453.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-15",
+   "note": "国旗粉丝日/朝鲜_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "00QUYoZHnH8": {
    "id": "00QUYoZHnH8",
    "title": "Geography Now! North Korea (DPRK)",
    "order": 228,
-   "status": "pending",
+   "status": "done",
    "duration": 971.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-13",
+   "note": "朝鲜.md",
+   "done": "2026-11-01"
   },
   "H_b5d-rLXJU": {
    "id": "H_b5d-rLXJU",
    "title": "Where to find HIDDEN TREASURE in the world (Geography Now!)",
    "order": 227,
-   "status": "pending",
+   "status": "skipped",
    "duration": 441.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-09",
+   "skip_reason": "无字幕"
   },
   "jBRQS6rQk48": {
    "id": "jBRQS6rQk48",
    "title": "The Shortest lived countries in the world (Geography Now!)",
    "order": 226,
-   "status": "pending",
+   "status": "done",
    "duration": 410.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-06",
+   "note": "专题与其他/226_存在时间最短的国家.md",
+   "done": "2026-11-01"
   },
   "glyateCsn_I": {
    "id": "glyateCsn_I",
    "title": "Flag Fan Friday KIRIBATI! (Geography Now!)",
    "order": 225,
-   "status": "pending",
+   "status": "done",
    "duration": 470.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-12-01",
+   "note": "国旗粉丝日/基里巴斯_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "ZtoZlLj8t1c": {
    "id": "ZtoZlLj8t1c",
    "title": "Geography Now! Kiribati",
    "order": 224,
-   "status": "pending",
+   "status": "done",
    "duration": 818.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-11-29",
+   "note": "基里巴斯.md",
+   "done": "2026-11-01"
   },
   "P9KRWakMedM": {
    "id": "P9KRWakMedM",
    "title": "Flag/ Fan Friday KENYA (Geography Now!)",
    "order": 223,
-   "status": "pending",
+   "status": "done",
    "duration": 455.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-11-24",
+   "note": "国旗粉丝日/肯尼亚_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "DWyjf9dhL4o": {
    "id": "DWyjf9dhL4o",
    "title": "Geography Now! Kenya",
    "order": 222,
-   "status": "pending",
+   "status": "done",
    "duration": 804.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2017-11-22",
+   "note": "肯尼亚.md",
+   "done": "2026-11-01"
   },
   "9Zv2CX93_xs": {
    "id": "9Zv2CX93_xs",
