@@ -1172,81 +1172,109 @@
    "id": "9JB_X3QuJ1s",
    "title": "FLAG/ FAN FRIDAY TAJIKISTAN (Geography Now!)",
    "order": 441,
-   "status": "pending",
+   "status": "done",
    "duration": 800.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-01-21",
+   "note": "国旗粉丝日/塔吉克斯坦_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "DS6i0U5ycKA": {
    "id": "DS6i0U5ycKA",
    "title": "Geography Now! TAJIKISTAN",
    "order": 440,
-   "status": "pending",
+   "status": "done",
    "duration": 1746.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-01-19",
+   "note": "塔吉克斯坦.md",
+   "done": "2026-11-02"
   },
   "h9yTwyWdbqM": {
    "id": "h9yTwyWdbqM",
    "title": "What is it like in the Central African Republic?",
    "order": 439,
-   "status": "pending",
+   "status": "done",
    "duration": 1514.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-12-31",
+   "note": "实地探访/439_中非共和国.md",
+   "done": "2026-11-02"
   },
   "hYGtFCOCpYU": {
    "id": "hYGtFCOCpYU",
    "title": "So we were offered a FREE LUXURY trip to Abu Dhabi.... (Geography GO)",
    "order": 438,
-   "status": "pending",
+   "status": "done",
    "duration": 621.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-12-21",
+   "note": "实地探访/438_阿布扎比免费豪华游.md",
+   "done": "2026-11-02"
   },
   "1oAdUIaeU5Y": {
    "id": "1oAdUIaeU5Y",
    "title": "FLAG / FAN FRIDAY SYRIA (Geography Now)",
    "order": 437,
-   "status": "pending",
+   "status": "done",
    "duration": 709.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-12-11",
+   "note": "国旗粉丝日/叙利亚_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "8uKxaVhIte0": {
    "id": "8uKxaVhIte0",
    "title": "Geography Now! SYRIA",
    "order": 436,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1866.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-12-08",
+   "skip_reason": "无字幕"
   },
   "eCql_MuUS7s": {
    "id": "eCql_MuUS7s",
    "title": "FLAG/ FAN DAY! SWITZERLAND! (Geography Now)",
    "order": 435,
-   "status": "pending",
+   "status": "done",
    "duration": 852.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-10-30",
+   "note": "国旗粉丝日/瑞士_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "xY77dfvTVpA": {
    "id": "xY77dfvTVpA",
    "title": "Geography Now! SWITZERLAND",
    "order": 434,
-   "status": "pending",
+   "status": "done",
    "duration": 1982.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-10-28",
+   "note": "瑞士.md",
+   "done": "2026-11-02"
   },
   "oDMcpDyOZ60": {
    "id": "oDMcpDyOZ60",
    "title": "FLAG / FAN FRIDAY SWEDEN! (Geography Now)",
    "order": 433,
-   "status": "pending",
+   "status": "skipped",
    "duration": 784.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-09-24",
+   "skip_reason": "无字幕"
   },
   "pJuq8D1NGJQ": {
    "id": "pJuq8D1NGJQ",
    "title": "Geography Now! SWEDEN",
    "order": 432,
-   "status": "pending",
+   "status": "done",
    "duration": 2031.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2021-09-22",
+   "note": "瑞典.md",
+   "done": "2026-11-02"
   },
   "a65COiGoQVg": {
    "id": "a65COiGoQVg",
