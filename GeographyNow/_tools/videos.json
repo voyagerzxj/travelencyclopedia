@@ -2372,81 +2372,111 @@
    "id": "Kxy74EAjAec",
    "title": "Geography Now! MEXICO",
    "order": 291,
-   "status": "pending",
+   "status": "done",
    "duration": 1101.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-09-26",
+   "note": "墨西哥.md",
+   "done": "2026-11-01"
   },
   "_OBUVipjUzk": {
    "id": "_OBUVipjUzk",
    "title": "RUSSIAN REPUBLICS Explained (Geography Now!)",
    "order": 290,
-   "status": "pending",
+   "status": "done",
    "duration": 949.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-09-21",
+   "note": "专题与其他/290_俄罗斯各共和国.md",
+   "done": "2026-11-01"
   },
   "8RhRokdQtoo": {
    "id": "8RhRokdQtoo",
    "title": "The States + territories of India EXPLAINED Geography Now!",
    "order": 289,
-   "status": "pending",
+   "status": "done",
    "duration": 969.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-09-13",
+   "note": "专题与其他/289_印度各邦和中央直辖区.md",
+   "done": "2026-11-01"
   },
   "_c82Nqmq9U0": {
    "id": "_c82Nqmq9U0",
    "title": "Flag / Fan Friday MAURITIUS (Geography Now!)",
    "order": 288,
-   "status": "pending",
+   "status": "done",
    "duration": 607.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-09-07",
+   "note": "国旗粉丝日/毛里求斯_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "SrOwkNEHIlk": {
    "id": "SrOwkNEHIlk",
    "title": "Geography Now! MAURITIUS",
    "order": 287,
-   "status": "pending",
+   "status": "done",
    "duration": 730.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-09-05",
+   "note": "毛里求斯.md",
+   "done": "2026-11-01"
   },
   "VGdLVUhQS_I": {
    "id": "VGdLVUhQS_I",
    "title": "Flag/ Fan Friday MAURITANIA (Geography Now!)",
    "order": 286,
-   "status": "pending",
+   "status": "done",
    "duration": 657.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-08-31",
+   "note": "国旗粉丝日/毛里塔尼亚_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "QTDxrzELzmU": {
    "id": "QTDxrzELzmU",
    "title": "Geography Now! MAURITANIA",
    "order": 285,
-   "status": "pending",
+   "status": "done",
    "duration": 663.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-08-29",
+   "note": "毛里塔尼亚.md",
+   "done": "2026-11-01"
   },
   "0hhTBkISip0": {
    "id": "0hhTBkISip0",
    "title": "Flag / Fan Friday MARSHALL ISLANDS! (Geography Now!)",
    "order": 284,
-   "status": "pending",
+   "status": "done",
    "duration": 634.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-08-24",
+   "note": "国旗粉丝日/马绍尔群岛_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "wRzXi8DDrX8": {
    "id": "wRzXi8DDrX8",
    "title": "Geography Now! MARSHALL ISLANDS",
    "order": 283,
-   "status": "pending",
+   "status": "done",
    "duration": 728.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-08-22",
+   "note": "马绍尔群岛.md",
+   "done": "2026-11-01"
   },
   "btNqrzqTqlg": {
    "id": "btNqrzqTqlg",
    "title": "Flag/ Fan Friday MALTA (Geography Now!)",
    "order": 282,
-   "status": "pending",
+   "status": "done",
    "duration": 668.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2018-08-17",
+   "note": "国旗粉丝日/马耳他_国旗粉丝日.md",
+   "done": "2026-11-01"
   },
   "Qee_dxMvids": {
    "id": "Qee_dxMvids",
