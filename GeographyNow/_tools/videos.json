@@ -1092,81 +1092,109 @@
    "id": "GAoK4XjssrM",
    "title": "Watch me run across the narrowest 3-country salient in the world (First person to EVER document)",
    "order": 451,
-   "status": "pending",
+   "status": "done",
    "duration": 340.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-05-12",
+   "note": "实地探访/451_穿越世界最窄三国突出部.md",
+   "done": "2026-11-02"
   },
   "G_IdpTRlTt8": {
    "id": "G_IdpTRlTt8",
    "title": "My DNA Heritage test results (I WAS SHOCKED)",
    "order": 450,
-   "status": "pending",
+   "status": "skipped",
    "duration": 627.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-05-08",
+   "skip_reason": "无字幕"
   },
   "E2TNYXfgvQE": {
    "id": "E2TNYXfgvQE",
    "title": "Flag/ fan day TOGO!",
    "order": 449,
-   "status": "pending",
+   "status": "done",
    "duration": 811.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-05-03",
+   "note": "国旗粉丝日/多哥_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "KtBU-HnxiCo": {
    "id": "KtBU-HnxiCo",
    "title": "Geography Now! TOGO!",
    "order": 448,
-   "status": "pending",
+   "status": "done",
    "duration": 1948.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-04-29",
+   "note": "多哥.md",
+   "done": "2026-11-02"
   },
   "BHgn27Ad034": {
    "id": "BHgn27Ad034",
    "title": "Geography Now! VOLANCA",
    "order": 447,
-   "status": "pending",
+   "status": "skipped",
    "duration": 679.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-04-01",
+   "skip_reason": "无字幕"
   },
   "jRgtC0vMqSY": {
    "id": "jRgtC0vMqSY",
    "title": "FAN/ FLAG DAY! THAILAND (Geography Now!)",
    "order": 446,
-   "status": "pending",
+   "status": "done",
    "duration": 825.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-03-29",
+   "note": "国旗粉丝日/泰国_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "IWoq9N4fL9k": {
    "id": "IWoq9N4fL9k",
    "title": "Geography Now! THAILAND",
    "order": 445,
-   "status": "pending",
+   "status": "done",
    "duration": 2008.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-03-27",
+   "note": "泰国.md",
+   "done": "2026-11-02"
   },
   "sEqrzpoXdpM": {
    "id": "sEqrzpoXdpM",
    "title": "TEAM PUMPKIN SPICE! (Geography Now, Worst Amazing race Audition video ever)",
    "order": 444,
-   "status": "pending",
+   "status": "done",
    "duration": 198.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-03-08",
+   "note": "专题与其他/444_南瓜香料队.md",
+   "done": "2026-11-02"
   },
   "zt1EocRolNM": {
    "id": "zt1EocRolNM",
    "title": "FLAG/ FAN FRIDAY TANZANIA (Geography Now!)",
    "order": 443,
-   "status": "pending",
+   "status": "done",
    "duration": 656.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-02-25",
+   "note": "国旗粉丝日/坦桑尼亚_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "cygqKMAzNig": {
    "id": "cygqKMAzNig",
    "title": "Geography Now! TANZANIA",
    "order": 442,
-   "status": "pending",
+   "status": "done",
    "duration": 1935.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2022-02-23",
+   "note": "坦桑尼亚.md",
+   "done": "2026-11-02"
   },
   "9JB_X3QuJ1s": {
    "id": "9JB_X3QuJ1s",
