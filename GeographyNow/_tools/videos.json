@@ -532,81 +532,110 @@
    "id": "WDTVzdccj-8",
    "title": "Memorizing every capital in the world blindfolded",
    "order": 521,
-   "status": "pending",
+   "status": "done",
    "duration": 956.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-07-04",
+   "note": "专题与其他/521_蒙眼背出世界所有首都.md",
+   "done": "2026-11-02"
   },
   "ylgg-8fA2gY": {
    "id": "ylgg-8fA2gY",
    "title": "Letter to Ethiopia.",
    "order": 520,
-   "status": "pending",
+   "status": "done",
    "duration": 1218.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-06-27",
+   "note": "专题与其他/520_致埃塞俄比亚的信.md",
+   "done": "2026-11-02"
   },
   "-CunzmZL1XY": {
    "id": "-CunzmZL1XY",
    "title": "Geography Now! YEMEN",
    "order": 519,
-   "status": "pending",
+   "status": "skipped",
    "duration": 2001.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-06-19",
+   "skip_reason": "无字幕"
   },
   "JDzoimosogI": {
    "id": "JDzoimosogI",
    "title": "How to piss off every country in the world.",
    "order": 518,
-   "status": "pending",
+   "status": "done",
    "duration": 1097.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-06-08",
+   "note": "专题与其他/518_如何惹毛世界每个国家.md",
+   "done": "2026-11-02"
   },
   "oMkcxC8cF10": {
    "id": "oMkcxC8cF10",
    "title": "Letter to Afghanistan",
    "order": 517,
-   "status": "pending",
+   "status": "done",
    "duration": 1423.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-05-30",
+   "note": "专题与其他/517_致阿富汗的信.md",
+   "done": "2026-11-02"
   },
   "rHc2Q7OEHCs": {
    "id": "rHc2Q7OEHCs",
    "title": "I'm not in a good place.",
    "order": 516,
-   "status": "pending",
+   "status": "done",
    "duration": 372.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-05-20",
+   "note": "专题与其他/516_我现在状态不好.md",
+   "done": "2026-11-02"
   },
   "X_qBZ5oaM1w": {
    "id": "X_qBZ5oaM1w",
    "title": "Places you will never see.",
    "order": 515,
-   "status": "pending",
+   "status": "done",
    "duration": 634.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-05-05",
+   "note": "专题与其他/515_你永远看不到的地方.md",
+   "done": "2026-11-02"
   },
   "niGBPw9tsg0": {
    "id": "niGBPw9tsg0",
    "title": "STATES OF NIGERIA EXPLAINED!",
    "order": 514,
-   "status": "pending",
+   "status": "done",
    "duration": 1442.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-04-27",
+   "note": "专题与其他/514_尼日利亚各州详解.md",
+   "done": "2026-11-02"
   },
   "KBpOmH-TeRE": {
    "id": "KBpOmH-TeRE",
    "title": "Geography GO! TURKMENISTAN",
    "order": 513,
-   "status": "pending",
+   "status": "done",
    "duration": 1743.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-04-12",
+   "note": "实地探访/513_土库曼斯坦之旅.md",
+   "done": "2026-11-02"
   },
   "kn1VrzMjst8": {
    "id": "kn1VrzMjst8",
    "title": "Geography Now! VIETNAM",
    "order": 512,
-   "status": "pending",
+   "status": "done",
    "duration": 2061.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-04-03",
+   "note": "越南.md",
+   "done": "2026-11-02"
   },
   "ZBEW2IiszXE": {
    "id": "ZBEW2IiszXE",
