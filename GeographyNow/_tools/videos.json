@@ -692,81 +692,106 @@
    "id": "oXsf1yuMyKg",
    "title": "Flag/ Fan day VANUATU! ( Geography Now! )",
    "order": 501,
-   "status": "pending",
+   "status": "skipped",
    "duration": 629.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-12-11",
+   "skip_reason": "无字幕"
   },
   "DNBCoof4dNM": {
    "id": "DNBCoof4dNM",
    "title": "Geography Now! VANUATU",
    "order": 500,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1911.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-12-07",
+   "skip_reason": "无字幕"
   },
   "BQtPdM1ZUMg": {
    "id": "BQtPdM1ZUMg",
    "title": "Everything you need to know about Africa",
    "order": 499,
-   "status": "pending",
+   "status": "skipped",
    "duration": 662.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-11-14",
+   "skip_reason": "无字幕"
   },
   "cKexTlFQxAo": {
    "id": "cKexTlFQxAo",
    "title": "FLAG/ FAN DAY UZBEKISTAN (Geography Now!)",
    "order": 498,
-   "status": "pending",
+   "status": "done",
    "duration": 812.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-11-04",
+   "note": "国旗粉丝日/乌兹别克斯坦_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "ETshSZvnzRg": {
    "id": "ETshSZvnzRg",
    "title": "Geography Now! UZBEKISTAN",
    "order": 497,
-   "status": "pending",
+   "status": "skipped",
    "duration": 2273.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-10-31",
+   "skip_reason": "无字幕"
   },
   "H2elZKUaUMo": {
    "id": "H2elZKUaUMo",
    "title": "The WEIRDEST countries that used to exist",
    "order": 496,
-   "status": "pending",
+   "status": "done",
    "duration": 741.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-10-20",
+   "note": "专题与其他/496_曾经存在的最奇怪国家.md",
+   "done": "2026-11-02"
   },
   "a1WM5fb_-iE": {
    "id": "a1WM5fb_-iE",
    "title": "Turkic peoples/ countries EXPLAINED!",
    "order": 495,
-   "status": "pending",
+   "status": "done",
    "duration": 904.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-09-27",
+   "note": "专题与其他/495_突厥民族与国家详解.md",
+   "done": "2026-11-02"
   },
   "U4JeIgMhclQ": {
    "id": "U4JeIgMhclQ",
    "title": "What will Geography Now do AFTER the Zimbabwe episode?",
    "order": 494,
-   "status": "pending",
+   "status": "done",
    "duration": 880.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-09-12",
+   "note": "专题与其他/494_津巴布韦之后做什么.md",
+   "done": "2026-11-02"
   },
   "NaOaGTWjizc": {
    "id": "NaOaGTWjizc",
    "title": "FLAG /FAN DAY URUGUAY! (Geography Now!)",
    "order": 493,
-   "status": "pending",
+   "status": "done",
    "duration": 782.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-09-08",
+   "note": "国旗粉丝日/乌拉圭_国旗粉丝日.md",
+   "done": "2026-11-02"
   },
   "MQcrymQz0O8": {
    "id": "MQcrymQz0O8",
    "title": "Geography Now! URUGUAY",
    "order": 492,
-   "status": "pending",
+   "status": "skipped",
    "duration": 2158.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2023-09-04",
+   "skip_reason": "无字幕"
   },
   "0oD4CiaKHGA": {
    "id": "0oD4CiaKHGA",
