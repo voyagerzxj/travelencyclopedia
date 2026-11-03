@@ -52,81 +52,111 @@
    "id": "rsDeLmlQDH4",
    "title": "Geography Now! FAROE ISLANDS",
    "order": 581,
-   "status": "pending",
+   "status": "done",
    "duration": 1879.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-07-03",
+   "note": "法罗群岛.md",
+   "done": "2026-11-02"
   },
   "5KasKGzXy-o": {
    "id": "5KasKGzXy-o",
    "title": "Crossing this road is illegal. So I went there for vacation.",
    "order": 580,
-   "status": "pending",
+   "status": "done",
    "duration": 992.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-06-29",
+   "note": "实地探访/580_罗伯茨角公路旅行.md",
+   "done": "2026-11-02"
   },
   "qS-F4jsvSGQ": {
    "id": "qS-F4jsvSGQ",
    "title": "This is the STRANGEST ADMINISTRATIVE DIVISION ON EARTH!",
    "order": 579,
-   "status": "pending",
+   "status": "done",
    "duration": 1136.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-06-05",
+   "note": "专题与其他/579_地球上最奇怪的行政区本地治里.md",
+   "done": "2026-11-02"
   },
   "DkT-G3swCFU": {
    "id": "DkT-G3swCFU",
    "title": "The hidden \"country\" of MAGHREB explained",
    "order": 578,
-   "status": "pending",
+   "status": "done",
    "duration": 1219.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-05-26",
+   "note": "专题与其他/578_隐藏的国家马格里布详解.md",
+   "done": "2026-11-02"
   },
   "U30KBKFzIgI": {
    "id": "U30KBKFzIgI",
    "title": "Are all the languages in the world connected?",
    "order": 577,
-   "status": "pending",
+   "status": "done",
    "duration": 1283.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-05-01",
+   "note": "专题与其他/577_世界上所有语言都有联系吗.md",
+   "done": "2026-11-02"
   },
   "cphSFpoMPPM": {
    "id": "cphSFpoMPPM",
    "title": "The WORST \"White Elephant\" projects on earth",
    "order": 576,
-   "status": "pending",
+   "status": "done",
    "duration": 867.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-04-19",
+   "note": "专题与其他/576_世界上最糟的白象工程.md",
+   "done": "2026-11-02"
   },
   "D7x-QuNfcBY": {
    "id": "D7x-QuNfcBY",
    "title": "The hidden \"country\" of CAUCASIA explained",
    "order": 575,
-   "status": "pending",
+   "status": "done",
    "duration": 920.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-02-27",
+   "note": "专题与其他/575_隐藏的国家高加索详解.md",
+   "done": "2026-11-02"
   },
   "bGgs1MN16KU": {
    "id": "bGgs1MN16KU",
    "title": "Asia's \"hidden\" country ZOMIA...explained",
    "order": 574,
-   "status": "pending",
+   "status": "done",
    "duration": 1074.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-02-14",
+   "note": "专题与其他/574_亚洲隐藏的国家佐米亚.md",
+   "done": "2026-11-02"
   },
   "2AGrZQ5NBlQ": {
    "id": "2AGrZQ5NBlQ",
    "title": "GEOGRAPHY NOW! CHENGDU",
    "order": 573,
-   "status": "pending",
+   "status": "done",
    "duration": 1941.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-01-31",
+   "note": "实地探访/573_成都城市指南.md",
+   "done": "2026-11-02"
   },
   "Sz4iKPhfttk": {
    "id": "Sz4iKPhfttk",
    "title": "Are Hungarians...ASIANS?",
    "order": 572,
-   "status": "pending",
+   "status": "done",
    "duration": 1055.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2026-01-18",
+   "note": "专题与其他/572_匈牙利人是亚洲人吗.md",
+   "done": "2026-11-02"
   },
   "ubBw7BshPg0": {
    "id": "ubBw7BshPg0",
