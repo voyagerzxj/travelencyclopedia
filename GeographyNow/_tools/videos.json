@@ -372,81 +372,110 @@
    "id": "9EKyeZ8zpHE",
    "title": "Alaskan natives have their own SECRET HIDDEN map...",
    "order": 541,
-   "status": "pending",
+   "status": "done",
    "duration": 1024.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2025-02-16",
+   "note": "专题与其他/541_阿拉斯加原住民的秘密地图.md",
+   "done": "2026-11-02"
   },
   "BfEwxee9CHw": {
    "id": "BfEwxee9CHw",
    "title": "Letter to Suriname",
    "order": 540,
-   "status": "pending",
+   "status": "done",
    "duration": 2141.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2025-02-10",
+   "note": "专题与其他/540_致苏里南的信.md",
+   "done": "2026-11-02"
   },
   "Qcpkp3qAUaE": {
    "id": "Qcpkp3qAUaE",
    "title": "So... I might get banned from Kuwait for making this...",
    "order": 539,
-   "status": "pending",
+   "status": "done",
    "duration": 918.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2025-02-01",
+   "note": "实地探访/539_科威特的黑色土地.md",
+   "done": "2026-11-02"
   },
   "5uJ22T3zx-I": {
    "id": "5uJ22T3zx-I",
    "title": "Once and for all- Will the USA take over Greenland? (I think I found the answer)",
    "order": 538,
-   "status": "pending",
+   "status": "done",
    "duration": 1236.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2025-01-20",
+   "note": "专题与其他/538_美国会拿下格陵兰吗.md",
+   "done": "2026-11-02"
   },
   "yeo-ND6CSiQ": {
    "id": "yeo-ND6CSiQ",
    "title": "Nobody remembers or cares about this country.",
    "order": 537,
-   "status": "pending",
+   "status": "done",
    "duration": 1000.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2025-01-04",
+   "note": "专题与其他/537_没人记得的国家几内亚比绍.md",
+   "done": "2026-11-02"
   },
   "GsB-1m5KGro": {
    "id": "GsB-1m5KGro",
    "title": "What UNITES all Americans?",
    "order": 536,
-   "status": "pending",
+   "status": "skipped",
    "duration": 1386.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-12-29",
+   "skip_reason": "无字幕"
   },
   "pVmPN5ked68": {
    "id": "pVmPN5ked68",
    "title": "Los Angeles City has the worst map in America",
    "order": 535,
-   "status": "pending",
+   "status": "done",
    "duration": 842.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-12-16",
+   "note": "专题与其他/535_洛杉矶市的地图最糟糕.md",
+   "done": "2026-11-02"
   },
   "gqJV5VFBpHI": {
    "id": "gqJV5VFBpHI",
    "title": "So...what just happened in Syria?",
    "order": 534,
-   "status": "pending",
+   "status": "done",
    "duration": 638.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-12-10",
+   "note": "专题与其他/534_叙利亚刚刚发生了什么.md",
+   "done": "2026-11-02"
   },
   "qJJQAj82zYg": {
    "id": "qJJQAj82zYg",
    "title": "Countries with limited recognition explained",
    "order": 533,
-   "status": "pending",
+   "status": "done",
    "duration": 967.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-12-07",
+   "note": "专题与其他/533_有限承认的国家详解.md",
+   "done": "2026-11-02"
   },
   "9QmVl6OaHZg": {
    "id": "9QmVl6OaHZg",
    "title": "Letter to (North) Macedonia",
    "order": 532,
-   "status": "pending",
+   "status": "done",
    "duration": 1272.0,
-   "found": "2026-11-01"
+   "found": "2026-11-01",
+   "upload_date": "2024-11-30",
+   "note": "专题与其他/532_致北马其顿的信.md",
+   "done": "2026-11-02"
   },
   "P__1_ss85Fk": {
    "id": "P__1_ss85Fk",
